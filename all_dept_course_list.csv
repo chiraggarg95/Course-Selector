@@ -1,0 +1,799 @@
+,Course Code,Course Name,Dept,Division,Division.1,Instructor(s),Registration Limit,Restrictions,Slot,Slot_code,Time,Type,Venue,Yxx ka Y
+0,AE 234,Aircraft Propulsion,AE,,,I - Kowsik V R Bodi, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,2
+1,AE 236,Compressible Fluid Mechanics,AE,,,I - Vineeth Nair, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,2
+2,AE 238,Aerospace Structural Mechanics,AE,,,I - Susmita Naskar, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,2
+3,AE 240,Spaceflight Mechanics,AE,,,I - Joshi Ashok, 75,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,2
+4,AE 240,Spaceflight Mechanics,AE, M,,I - Joshi Ashok, 15,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,2
+5,AE 242,Aerospace Measurements Laboratory,AE,,,I - Arya Hemendra, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,2
+6,AE 305,Flight Mechanics II,AE,,,I - Shashi Ranjan Kumar, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,3
+7,AE 312,Aerodynamics Laboratory,AE,,,A - Aniruddha Sinha A - Dhwanil Shukla A - Vineeth Nair A - Viren Menezes I - Mandal J.C., 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,3
+8,AE 314,Aircraft Structures Laboratory,AE,,,I - Chandra S. Yerramalli, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,3
+9,AE 316,Aircraft Propulsion Laboratory,AE,,,I - Hrishikesh Gadgil, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,3
+10,AE 330,Aerospace Propulsion,AE,,,I - Sudarshan Kumar, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,3
+11,AE 332,Aircraft Design,AE,,,I - Avijit Chatterjee, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,3
+12,AE 427,Control Systems Laboratory,AE,,,A - Shashi Ranjan Kumar I - Arnab Maity, 0,,L3 Thu-L3-14:00:00-16:55:00,L3, Thu-L3-14:00:00-16:55:00,timetable,  ,4
+13,AE 607,Aerospace Propulsion Laboratory,AE,,,I - Hrishikesh Gadgil, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,6
+14,AE 611,Aerodynamics Lab,AE,,,A - Aniruddha Sinha A - Dhwanil Shukla A - Vineeth Nair A - Viren Menezes I - Mandal J.C., 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,6
+15,AE 622,Computing of High Speed Flows,AE,,,I - Krishnendu Sinha, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+16,AE 624,Hypersonic Flow Theory,AE,,,I - Viren Menezes, 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,6
+17,AE 648,Energy Methods in Structural Mechanics,AE,,,I - Chandra S. Yerramalli, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,6
+18,AE 649,Finite Element Method,AE,,,A - P J Guruprasad I - Mujumdar P. M., 15,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+19,AE 660,Interfacial Phenomena in Liquid Atomization,AE,,,I - Hrishikesh Gadgil, 15,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+20,AE 665,Aircraft Stealth Technology,AE,,,I - S. P. Mahulikar, 37,,15 Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,15, Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,timetable,  ,6
+21,AE 666,Adaptive and Learning Control Systems,AE,,,I - Arnab Maity, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+22,AE 667,Rotary Wing Aerodynamics,AE,,,I - Dhwanil Shukla, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+23,AE 678,Aeroelasticity,AE,,,I - Mujumdar P. M., 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+24,AE 699,Control Systems Lab,AE,,,A - Shashi Ranjan Kumar I - Arnab Maity, 0,,L3 Thu-L3-14:00:00-16:55:00,L3, Thu-L3-14:00:00-16:55:00,timetable,  ,6
+25,AE 706,Computational Fluid Dynamics,AE,,,I - Mandal J.C., 45,,15 Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,15, Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,timetable,  ,7
+26,AE 708,Aerospace Propulsion,AE,,,I - Sudarshan Kumar, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,7
+27,AE 710,Aeroacoustics,AE,,,I - Aniruddha Sinha, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,7
+28,AE 711,Aircraft Propulsion,AE,,,I - Kowsik V R Bodi, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,7
+29,AE 713,Space Flight Dynamics,AE,,,I - Joshi Ashok, 15,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,7
+30,AE 714,Aircraft Design,AE,,,I - Pant R.K., 50,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,7
+31,AE 717,Aircraft Flight Dynamics,AE,,,I - Shashi Ranjan Kumar, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,7
+32,AE 727,Aircraft Structural Mechanics Lab.,AE,,,I - Chandra S. Yerramalli, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,7
+33,AE 738,Tensors for Engineers,AE,,,I - Krishnendu Haldar, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,7
+34,AE 755,Optimization for Engineering Design,AE,,,I - Abhijit Gogulapati, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,7
+35,AE 780,Computational Heat Transfer and Fluid Flow,AE,,,I - Ganapathi Bhat, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,7
+36,AE 792,Communication Skills -II,AE,,,A - Chandra S. Yerramalli I - Dhwanil Shukla, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,7
+37,BB 404,Metabolism and Bioenergetics,BB,,,I - Ashutosh Kumar, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+38,BB 404,Metabolism and Bioenergetics,BB, M,,I - Ashutosh Kumar, 15,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+39,BB 551,Genetic Engineering Laboratory,BB,,,I - Kiran Kondabagilu, 0,,L3 Thu-L3-14:00:00-16:55:00,L3, Thu-L3-14:00:00-16:55:00,timetable,  ,5
+40,BB 602,Research philosophy,BB,,,I - Patankar Swati, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+41,BB 606,Cellular Electricity: Physics & Modeling,BB,,,I - Manchanda Rohit, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,6
+42,BB 608,Advannced Biomaterials and Regeneratiion,BB,,,I - Banerjee Rinti, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+43,BB 610,Biomedical Microsystems,BB,,,I - R. Srivastava, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+44,BB 610,Biomedical Microsystems,BB, M,,I - R. Srivastava, 10,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+45,BB 611,Cell Cycle and Epigenetic Control,BB,,,I - S. Ghosh, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+46,BB 612,Cell Mechanics and Mechanobiology,BB,,,I - Shamik Sen, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,6
+47,BB 616,Cellular and Tissue Engineering,BB,,,I - Prakriti Tayalia, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+48,BB 618,Medical Instrumentation,BB,,,I - Mukherji Soumyo, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+49,BB 621,Biostatistics,BB,,,I - Shamik Sen, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+50,BB 623,Mechanisms of Bacterial Pathogenesis,BB,,,I - Anirban Banerjee, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,6
+51,BB 624,Microfluidics: physics and applications,BB,,,I - Debjani Paul, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+52,BB 626,Modeling Biological Systems and Processes,BB,,,I - Ranjith P., 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+53,BB 628,Molecular Cell Signaling,BB,,,I - G. Subrahmanyam, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,6
+54,BB 630,Industrial Microbiology,BB,,,I - N.S. Punekar, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,6
+55,BB 632,Topics in Biotechnology II,BB,,,A - Samir Maji I - D. Panda, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+56,BB 642,Protein Crystallography,BB,,,I - Prasenjit Bhaumik, 0,,14 Tue-14A-17:30:00-18:55:00,14, Tue-14A-17:30:00-18:55:00,timetable,  ,6
+57,BB 702,Technology in Surgical Reconstruction,BB,,,I - Vivek P. Soni, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,7
+58,BB 704,Diffuse Optical Imaging,BB,,,I - Hari M. Varma, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,7
+59,CE 102,Engineering Mechanics,CE, S1,,I - Jayadipta Ghosh, 110,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,1
+60,CE 102,Engineering Mechanics,CE, S2,,I - Manish Kumar, 110,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,1
+61,CE 102,Engineering Mechanics,CE, S3,,I - Jangid R.S., 110,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,1
+62,CE 102,Engineering Mechanics,CE, S4,,I - Desai Yogesh M., 110,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,1
+63,CE 204,Engineering Surveying,CE, S1,,I - Rao E.P., 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,2
+64,CE 204,Engineering Surveying,CE, S2,,I - Raaj Ramsankaran, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,2
+65,CE 222,Structural Mechanics I,CE, S1,,I - N.K.Chandiramani, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,2
+66,CE 222,Structural Mechanics I,CE, S2,,I - Swagata Basu, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,2
+67,CE 228,Applied Hydraulic Engineering,CE, S1,,I - Arpita Mondal, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,2
+68,CE 228,Applied Hydraulic Engineering,CE, S2,,I - Riddhi Singh, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,2
+69,CE 230,Hydraulic Engineering Lab,CE, S1,,I - R. Balaji, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,2
+70,CE 230,Hydraulic Engineering Lab,CE, S2,,I - Jothiprakash V., 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,2
+71,CE 232,Building Materials and Construction,CE,,,I - Prakash Nanthagopalan, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,2
+72,CE 323,Geotechnical Engineering I,CE,,,, 0,,,0,,Instructor information not avilable,,3
+73,CE 324,Engineering Law,CE,,,A - Milind S. Wankhede I - Sinha Ravi, 60,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,3
+74,CE 330,Geotechnical Engineering II,CE, S1,,I - Singh D.N., 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,3
+75,CE 330,Geotechnical Engineering II,CE, S2,,I - Singh D.N., 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,3
+76,CE 332,Structural Design II,CE, S1,,I - Ghosh Siddhartha, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,3
+77,CE 332,Structural Design II,CE, S2,,I - Amit Kumar Das, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,3
+78,CE 334,Transportation Engineering II,CE, S1,,I - P.Vedagiri, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,3
+79,CE 334,Transportation Engineering II,CE, S2,,I - Nagendra Rao Velaga, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,3
+80,CE 336,Geotechnical Engineering Lab II,CE, S1,,I - Prasenjit Basu, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,3
+81,CE 336,Geotechnical Engineering Lab II,CE, S2,,I - Santiram Chatterjee, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,3
+82,CE 338,Estimation and Materials Testing Laboratory,CE, S1,,I - Muhammad Salman, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,3
+83,CE 338,Estimation and Materials Testing Laboratory,CE, S2,,I - Albert Thomas, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,3
+84,CE 433,Water Supply and Waste Water Engineering,CE,,,I - Gupta Kapil, 60,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,4
+85,CE 444,Advanced Geotechnical Analysis,CE,,,I - A. Juneja, 60,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,4
+86,CE 448,Prestressed Concrete Design,CE,,,I - Arghadeep Laskar, 60,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,4
+87,CE 462,Elements of Structural Dynamics,CE,,,I - Banerji P., 60,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,4
+88,CE 465,Numerical Methods in Civil Engineering,CE,,,I - Sinha Ravi, 50,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,4
+89,CE 607,Numerical Techniques in Hydraulic Engg,CE,,,I - T I Eldho, 60,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+90,CE 608,Eco-hydro-Climatology,CE,,,I - Subimal Ghosh, 60,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+91,CE 610,Introduction to Earthquake Engineering,CE,,,I - Meera Raghudan, 50,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+92,CE 620,Finite Element Methods,CE,,,I - M.M.Inamdar, 60,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+93,CE 629,Elastic Waves in Solids,CE,,,I - Sauvik Banerjee, 60,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+94,CE 645,Geotechnical Centrifuge Modelling,CE,,,I - Viswanadham B.V.S., 60,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+95,CE 651,Bridge Engineering,CE,,,I - Goyal Alok, 60,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+96,CE 652,Foundations of Offshore Structures,CE,,,I - Santiram Chatterjee, 60,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+97,CE 654,Advanced Hydrological Analysis and Design,CE,,,I - Jothiprakash V., 60,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,6
+98,CE 656,Plasticity Theory and Applications in Geomechanics,CE,,,I - Prasenjit Basu, 60,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+99,CE 658,Hydrogeomorphology,CE,,,I - Basudev Biswal, 60,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+100,CE 659,Advanced Surveying,CE,,,I - Raaj Ramsankaran, 20,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+101,CE 676,Water Resources Systems,CE,,,I - M.J.Reddy, 60,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,6
+102,CE 677,Design and Testing of Pile Foundations,CE,,,I - S. Dasaka Murthy, 60,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+103,CE 684,Advanced Geotechnical Earthquake Engineering,CE,,,I - Choudhury Deepankar, 60,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+104,CE 687,Offshore Construction,CE,,,I - R. Balaji, 60,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+105,CE 699,Transportation Systems Studio,CE,,,A - K.V.Krishna Rao I - Nagendra Rao Velaga, 60,,Wed-LX-14:00:00-16:55:00,LX,d-LX-14:00:00-16:55:00,timetable,  ,6
+106,CE 706,Ocean Engineering Laboratory,CE,,,A - Manasa R. Behera I - R. Balaji, 60,,Wed-LX-14:00:00-16:55:00,LX,d-LX-14:00:00-16:55:00,timetable,  ,7
+107,CE 707,Coastal Port and Harbor Engineering,CE,,,I - Manasa R. Behera, 60,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,7
+108,CE 708,Offshore Engineering,CE,,,I - Deo M.C., 60,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,7
+109,CE 710,Remote Sensing and Geographical Information Systems in Water Resources Management,CE,,,I - Eswar Rajasekaran, 60,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,7
+110,CE 718,Construction Materials Laboratory,CE,,,I - Muhammad Salman, 60,,Wed-LX-14:00:00-16:55:00,LX,d-LX-14:00:00-16:55:00,timetable,  ,7
+111,CE 719,Construction Contracts,CE,,,I - Venkata S. Delhi, 20,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,7
+112,CE 722,Construction Management Studio,CE,,,A - Venkata S. Delhi I - Albert Thomas, 60,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,7
+113,CE 723,Construction Equipment and Personnel Management,CE,,,I - Albert Thomas, 60,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,7
+114,CE 725,Construction Economics and Fice,CE,,,I - Venkata S. Delhi, 20,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,7
+115,CE 743,Condition Assessment and Rehabilitation of Structures,CE,,,I - Muhammad Salman, 20,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,7
+116,CE 749,Freight transportation Planning and Logistics,CE,,,I - Gopal R. Patil, 60,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,7
+117,CE 773,Geometric Design and Analysis of High-Speed Roadways,CE,,,I - Avijit Maji, 60,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,7
+118,CE 776,Transportation Project Evaluation and Decision Making,CE,,,I - P.Vedagiri, 60,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,7
+119,CE 780,Behavioural Travel Modelling,CE,,,I - K.V.Krishna Rao, 60,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,7
+120,CE 792,Communication Skills -II,CE,,,I - Bellie Sivakumar, 0,,X Wed-XC-17:30:00-18:55:00,0,Wed-XC-17:30:00-18:55:00,timetable,  ,7
+121,CH 220,Reactions of Carbonyl Compounds,CH,,,A - Chandra M. R. Volla I - Pradeep Kumar P.I., 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,2
+122,CH 224,Co-ordination Chemistry,CH,,,A - Goutam K. Lahiri I - Gopalan Rajaram, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,2
+123,CH 408,Molecular Energetics and Dynamics,CH,,,I - Nand Kishore, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,4
+124,CH 410,Bio-Inorganic Chemistry,CH,,,A - D. Maiti I - Arnab Dutta, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,4
+125,CH 438,Chemistry of Main Group Elements,CH,,,A - R. Murugavel I - Sanjog Sunil Nagarkar, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,4
+126,CH 442,Molecular Spectroscopy,CH,,,I - G. Naresh Patwari, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,4
+127,CH 504,Computational Chemistry,CH,,,I - R. B. Sunoj, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,5
+128,CH 560,Quantum Chemistry,CH,,,A - G. Naresh Patwari I - Rahul Maitra, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,5
+129,CH 576,Statistical Mechanics,CH,,,I - Rajarshi Chakrabarti, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,5
+130,CH 578,Topics in Inorganic Chemistry II,CH,,,A - Leela S. Panchakarla I - Maheswaran S., 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,5
+131,CH 586,Structure and Properties of Materials,CH,,,I - Subramaniam Chandramouli, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,5
+132,CH 603,Programming Techniques in Chemistry,CH,,,A - Amber Jain I - Achintya Kumar Dutta, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,6
+133,CH 792,Communication Skills -II,CH,,,A - Nandita Madhavan I - Ghosh Prasenjit, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,7
+134,CH 807,Organic Synthesis,CH,,,A - Santosh J. Gharpure I - Kaliappan K P, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,8
+135,CH 814,Fundamentals of Molecular Energetics and Dynamics,CH,,,I - Y. U. Sasidhar, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,8
+136,CH 824,Organotransition Metal and Acceptor Ligand Complex,CH,,,I - M. Ravikanth, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,8
+137,CH 826,Topics in Chemistry,CH,,,A - Anil Kumar A - Ghosh Prasenjit I - Arnab Dutta, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,8
+138,CH 828,Spectra of Organic Compounds,CH,,,A - I.N.N. Namboothiri I - Chidambar Kulkarni, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,8
+139,CH 864,Biopolymers,CH,,,I - Ruchi Ad, 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,8
+140,CL 202,Introduction to Data Analysis,CL,,,I - Bhartiya S., 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,2
+141,CL 246,Heat Transfer,CL, S1,,I - Venkat Gundabala, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,2
+142,CL 246,Heat Transfer,CL, S2,,I - P.Sunthar, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,2
+143,CL 250,Chemical Engineering Thermodynamics II,CL, S1,,I - Adhikari J., 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,2
+144,CL 250,Chemical Engineering Thermodynamics II,CL, S2,,I - Roy S., 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,2
+145,CL 254,Process Fluid Mechanics,CL, S1,,I - Chandra V, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,2
+146,CL 254,Process Fluid Mechanics,CL, S2,,I - Khakhar D.V., 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,2
+147,CL 302,Process Control,CL, S1,,I - Bharatkumar Suthar, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,3
+148,CL 302,Process Control,CL, S2,,I - Ravindra D. Gudi, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,3
+149,CL 306,Chemical Processes,CL,,,A - Vinjamur Madhu I - Rahul Nabar, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,3
+150,CL 310,Mass Transfer II,CL, S1,,I - Venkatesh K.V., 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,3
+151,CL 325,Chemical Reaction Engineering II,CL,,,I - Suresh A.K., 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,3
+152,CL 407,Process Equipment Design,CL,,,I - Yogendra Shastri, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,4
+153,CL 433,Chemical Engineering Lab IV,CL, S1,,A - Leja Hattiangadi A - Tirumkudulu Mahesh A - Y. S. Mayya I - Guruswamy Kumaraswamy, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,4
+154,CL 433,Chemical Engineering Lab IV,CL, S2,,A - Leja Hattiangadi A - Tirumkudulu Mahesh A - Y. S. Mayya I - Guruswamy Kumaraswamy, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,4
+155,CL 451,Chemical Process Design,CL,,,I - Sujit S. Jogwar, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,4
+156,CL 452,Process Design Project,CL, S1,,A - Bellare J. A - Leja Hattiangadi A - Malik R.K. A - Sameer Ralph Jadhav A - S.Ganeshan I - Moudgalya Kan., 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,4
+157,CL 452,Process Design Project,CL, S2,,A - Bellare J. A - Leja Hattiangadi A - Malik R.K. A - Sameer Ralph Jadhav A - S.Ganeshan I - Moudgalya Kan., 0,,L3 Thu-L3-14:00:00-16:55:00,L3, Thu-L3-14:00:00-16:55:00,timetable,  ,4
+158,CL 603,Optimization,CL,,,I - Manibhushan, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+159,CL 604,Process Plant Simulation,CL,,,I - Malik R.K., 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+160,CL 607,Advanced Thermodynamics,CL,,,I - Mukta Tripathy, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+161,CL 613,Special Topics in Complex Fluids,CL,,,A - Rochish Thaokar I - Juvekar V.A., 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+162,CL 615,Polymer Reaction Engineering,CL,,,I - Supreet Saini, 0,,8 Mon-8A-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00,timetable,  ,6
+163,CL 620,Petroleum Refining Engineering I,CL,,,I - Sanjay Mahajani, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+164,CL 651,Rheology of Complex Fluids,CL,,,I - Jyoti R. Seth, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+165,CL 669,Product Research & Development,CL,,,I - V.M.Naik, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+166,CL 678,Techno-Commerical Aspects of Fine Chemicals,CL,,,A - Sanjay Mahajani I - Rahul Nabar, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+167,CL 686,Advanced Process Control,CL,,,I - Sachin Patwardhan, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+168,CL 704,Lecture Series,CL,,,A - Sujit S. Jogwar A - Swati Bhattacharya I - Rochish Thaokar, 0,,X Wed-X1-14:00:00-15:00:00,0,Wed-X1-14:00:00-15:00:00,timetable,  ,7
+169,CL 716,Modelling Chemical and Biiological Patterns,CL,,,I - Sameer Ralph Jadhav, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,7
+170,CL 717,Evolutionary Dynamics,CL,,,I - Supreet Saini, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,7
+171,CL 718,Introduction to Cell Mechanics,CL,,,I - Abhijit Majumder, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,7
+172,CL 722,Introduction to Interfacial Waves,CL,,,I - Ratul Dasgupta, 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,7
+173,CL 792,Communication Skills -II,CL,,,I - Jason Ryan Picardo, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,7
+174,CM 402,Earth`s Climate: Past Present and Future,CM,,,I - Parthasarathy D., 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+175,CM 792,Communication Skills -II,CM,,,I - Parthasarathy D., 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,7
+176,CS 101,Computer Programming and Utilization,CS,,,I - Biswas S., 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,1
+177,CS 213,Data Structures and Algorithms,CS, M,,I - Sharat Chandran, 60,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,2
+178,CS 218,Design and Analysis of Algorithms,CS,,,I - Nutan Limaye, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,2
+179,CS 224,Computer Networks,CS,,,I - Vinay J. Ribeiro, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,2
+180,CS 226,Digital Logic Design,CS,,,I - Virendra Singh, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,2
+181,CS 228,Logic for Computer Science,CS,,,A - Krishna Shankara Naraya I - Ashutosh Kumar Gupta, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,2
+182,CS 252,Computer Networks Lab,CS,,,I - Vinay J. Ribeiro, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,2
+183,CS 254,Digital Logic Design Lab,CS,,,I - Virendra Singh, 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,2
+184,CS 302,Implementation of Programming Languages,CS,,,I - Uday Khedkar, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,3
+185,CS 310,Automata Theory,CS,,,I - S. Akshay, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,3
+186,CS 316,Implementation of Programming Languages Lab,CS,,,I - Uday Khedkar, 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,3
+187,CS 317,Database and Information Systems,CS,,,I - Sudarshan S., 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,3
+188,CS 347,Operating Systems,CS, M,,I - Bellur Umesh, 80,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,3
+189,CS 387,Database and Information Systems Lab,CS,,,I - Sudarshan S., 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,3
+190,CS 401,Kernel Programming,CS,,,I - Purushottam Kulkarni, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,4
+191,CS 406,Cryptography and Network Security,CS,,,I - Manoj Prabhakaran, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,4
+192,CS 408,Graph Theory,CS,,,I - Ranade A., 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,4
+193,CS 416,Computer and Network Security,CS, M,,I - Sivakumar G., 80,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+194,CS 419,Introducing to Machine Learning,CS, M,,I - Abir De, 80,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+195,CS 602,Applied Algorithms,CS,,,I - Rohit Gurjar, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,6
+196,CS 613,Design & Implementation of Functional Programming Languages,CS,,,I - Sanyal Amitabh, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+197,CS 620,New Trend in Information Technology,CS,,,I - Supratik Chakraborty, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+198,CS 621,Artificial Intelligence,CS,,,I - Sivakumar G., 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+199,CS 654,Current Topics in VLSI and System Design,CS,,,I - Virendra Singh, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+200,CS 681,Performance Analysis of Computer Systems and Network,CS,,,I - Varsha Apte, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+201,CS 684,Embedded Systems,CS,,,A - Paritosh K. Pandya I - K. Arya, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+202,CS 695,Topics in Virtualization and Cloud Computing,CS,,,I - Mythili Vutukuru, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+203,CS 719,Topics in Mathematical Foundations of Formal Verifications,CS,,,I - Bharat Adsul, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,7
+204,CS 726,Advanced Machine Learning,CS,,,I - S. Sarawagi, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,7
+205,CS 728,Organization of Web Information,CS,,,I - Chakrabarti Soumen, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,7
+206,CS 736,Medical Image Computing,CS,,,I - Suyash P. Awate, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,7
+207,CS 741,Advanced Network Security and Cryptography,CS,,,I - B. L. Menezes, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,7
+208,CS 746,Kernel Programming,CS,,,I - Purushottam Kulkarni, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,7
+209,CS 748,Advances in Intelligent and Learning Agents,CS,,,I - Shivaram Kalyanakrish, 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,7
+210,CS 753,Automatic Speech Recognition,CS,,,I - Preethi Jyothi, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,7
+211,CS 754,Advanced Image Processing,CS,,,I - Ajit V. Rajwade, 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,7
+212,CS 759,Perfect Matchings: Algorithms and Complexity,CS,,,I - Diwan A.A., 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,7
+213,CS 760,Topics in Computational Complexity,CS,,,I - Mrinal Kumar, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,7
+214,CS 763,Computer Vision,CS,,,I - Sharat Chandran, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,7
+215,CS 764,Computer Vision Lab,CS,,,I - Sharat Chandran, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,7
+216,CS 766,Analysis of Concurrent Programs?,CS,,,A - Krishna Shankara Naraya I - Ashutosh Kumar Gupta, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,7
+217,CS 769,Optimization in Machine Learning,CS,,,I - G.Ramakrish, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,7
+218,CS 772,Deep Learning for Natural Language Processing,CS,,,I - Bhattacharya P., 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,7
+219,CS 779,Extremal Combinatorics,CS,,,I - Vishwanathan Sundar, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,7
+220,CS 792,Communication Skills -II,CS,,,I - Parag Chaudhuri, 0,,X Wed-XC-17:30:00-18:55:00,0,Wed-XC-17:30:00-18:55:00,timetable,  ,7
+221,DE 202,2D Visual Studies II,DE,,,A - Shilpa Ranade I - Arun Mascarenhas, 0, View,,0,,timetable,  ,2
+222,DE 204,3D Form Studies II,DE,,,I - Dinesh Korjan, 0, View,,0,,timetable,  ,2
+223,DE 304,Communication Design,DE,,,I - Prasad Bokil, 0, View,,0,,timetable,  ,3
+224,DE 306,Film-Video Design,DE,,,I - Sudesh Balan, 0, View,,0,,timetable,  ,3
+225,DE 308,Product Design II,DE,,,I - Bapat V.P., 0, View,,0,,timetable,  ,3
+226,DE 310,Interaction Design,DE,,,I - Joshi Anirudha, 0, View,,0,,timetable,  ,3
+227,DE 312,Transportation Design,DE,,,I - Sugandh Malhotra, 0,,,0,,timetable,  ,3
+228,DE 313,3D Modeling and Prototyping,DE,,,I - Shilpa Ranade, 0,,,0,,timetable,  ,3
+229,DE 316,Product Ergonomics,DE,,,I - Swati Pal, 0,,,0,,timetable,  ,3
+230,DE 403,Studio Project I,DE,,,I - Sudesh Balan, 10,,,0,,timetable,  ,4
+231,DE 403,Studio Project I,DE, M,,I - Sudesh Balan, 0,,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,0,i-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+232,DE 403,Studio Project I,DE, M,,I - Sudesh Balan, 10,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+233,DE 405,Studio Project II,DE,,,I - Sudesh Balan, 10,,,0,,timetable,  ,4
+234,DE 405,Studio Project II,DE, M,,I - Sudesh Balan, 0,,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,0,i-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+235,DE 405,Studio Project II,DE, M,,I - Sudesh Balan, 10,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+236,DE 614,Design Workshop,DE,,,I - G.V.Sreekumar, 0,,,0,,timetable,  ,6
+237,DE 616,Introduction to User Studies,DE,,,I - Vivek Kant, 0,,,0,,timetable,  ,6
+238,DE 620,Introdction to 3D Form,DE,,,I - Purba Joshi, 0,,,0,,timetable,  ,6
+239,DE 622,Introduction to Animation,DE,,,I - Phani Tetali, 0,,,0,,timetable,  ,6
+240,DE 624,Introduction to Film Making,DE,,,I - Sudesh Balan, 0,,,0,,timetable,  ,6
+241,DE 644,Exposure to Grid System in Visual Design,DE,,,I - Prasad Bokil, 0,,,0,,timetable,  ,6
+242,DE 646,CAID Modeling for Automotive Design,DE,,,I - Sugandh Malhotra, 0,,,0,,timetable,  ,6
+243,DE 650,Studies in 3D Form,DE,,,I - Nishant Sharma, 0,,,0,,timetable,  ,6
+244,DE 654,Sketching-2,DE,,,I - Avinash Shende, 0,,,0,,timetable,  ,6
+245,DE 656,Model Making-2,DE,,,I - Nishant Sharma, 0,,,0,,timetable,  ,6
+246,EE 114,Power Engineering - I,EE, S2,,I - Soman S.A., 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,1
+247,EE 207,Electronic Devices & Circuits,EE, S1,,I - M. B. Patil, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,2
+248,EE 207,Electronic Devices & Circuits,EE, S2,,I - Dipankar Saha, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,2
+249,EE 214,Digital Circuits Lab,EE,,,I - M.Shojaei Baghini, 0,,Thu-L3-14:00:00-16:55:00,L3,u-L3-14:00:00-16:55:00,timetable,  ,2
+250,EE 221,Digital Electronics,EE, M,,I - Agarwal Vivek, 60,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,2
+251,EE 238,Power Engineering - II,EE, S1,,I - Chatterjee Kishore, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,2
+252,EE 238,Power Engineering - II,EE, S2,,I - Anshuman Shukla, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,2
+253,EE 240,Power Engineering Lab,EE,,,A - Chatterjee Kishore I - Prashant Navalkar, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,2
+254,EE 302,Control Systems,EE, S1,,I - M Belur, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,3
+255,EE 302,Control Systems,EE, S2,,I - Debraj Chakraborty, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,3
+256,EE 302,Control Systems,EE, S3,,I - Dwaipayan Mukherjee, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,3
+257,EE 302,Control Systems,EE, S4,,I - Pillai Harish, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,3
+258,EE 309,Microprocessors,EE,,,I - Sharma Dinesh, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,3
+259,EE 324,Control Systems Lab,EE,,,A - Debasattam Pal I - M Belur, 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,3
+260,EE 325,Probability and Random Processes,EE, M,,I - Nikhil Karamchandani, 60,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,3
+261,EE 328,Digital Communications,EE, S1,,I - Kumar Appaiah, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,3
+262,EE 328,Digital Communications,EE, S2,,I - Merchant S N, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,3
+263,EE 334,Power Systems,EE,,,I - Kulkarni A.M., 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,3
+264,EE 337,Microprocessors Laboratory,EE,,,A - Patkar Sachin A - S. Vijayakumaran I - V Raj Babu, 0,,Wed-LX-14:00:00-16:55:00,LX,d-LX-14:00:00-16:55:00,timetable,  ,3
+265,EE 340,Communications Lab,EE,,,I - Jayakrish Nair, 0,,Tue-L2-14:00:00-16:55:00,L2,e-L2-14:00:00-16:55:00,timetable,  ,3
+266,EE 344,Electronic Design Lab,EE,,,A - Debraj Chakraborty A - J.John I - J.Mukherjee, 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,3
+267,EE 605,Error Correcting Codes,EE,,,I - Sibi Raj B. Pillai, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+268,EE 606,Fibre Optic Communications,EE,,,I - J.John, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,6
+269,EE 614,Solid State Microwave Devices and their Applications,EE,,,I - Kumar Girish, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+270,EE 616,Electronic Systems Design,EE,,,I - Pandey P.C., 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+271,EE 620,Physics of Transistors,EE,,,I - Souvik Mahapatra, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+272,EE 621,Markov Chains and Queuing Systems,EE,,,I - Jayakrish Nair, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+273,EE 622,Optimal Control Systems,EE,,,I - Pillai Harish, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,6
+274,EE 625,Bio Sensors & BioMEMS,EE,,,I - S. Duttagupta, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,6
+275,EE 636,Matrix Computations,EE,,,I - Debasattam Pal, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,6
+276,EE 651,Digital Protection of Power Systems,EE,,,I - Prashant Navalkar, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+277,EE 654,Power Electronics - II,EE,,,I - M. Chandorkar, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,6
+278,EE 656,Electrical Machine Analysis and Control,EE,,,I - Ferdes B.G., 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+279,EE 672,Microelectronics Lab,EE,,,A - Apurba Laha I - Swaroop Ganguly, 0,,Fri-L4-14:00:00-16:55:00,L4,i-L4-14:00:00-16:55:00,timetable,  ,6
+280,EE 678,Wavelets,EE,,,I - Gadre V.M., 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+281,EE 699,Delta Sigma Data Converters and their Applications,EE,,,I - Pramod Murali, 30,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+282,EE 701,Introduction to MEMS,EE,,,I - Siddharth Tallur, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,7
+283,EE 705,V L S I Design Lab,EE,,,I - Patkar Sachin, 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,7
+284,EE 706,Communication Networks,EE,,,I - Sharayu Moharir, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,7
+285,EE 708,Information Theory & Coding,EE,,,I - B.K.Dey, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,7
+286,EE 709,Testing and Verification of VLSI Circuits,EE,,,I - Desai Madhav, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,7
+287,EE 719,Mixed-Signal VLSI Design,EE,,,I - Rajesh H. Zele, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,7
+288,EE 722,Restructured Power Systems,EE,,,I - Anupama Kowli, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,7
+289,EE 724,Nanoelectronics,EE,,,I - Bhaskaran Muralidharan, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,7
+290,EE 727,Physics of Nanoscale Devices - II,EE,,,I - Ashwin Tulapurkar, 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,7
+291,EE 728,Growth and Characterization of Nano-electronic Materials,EE,,,I - S. Chakrabarti, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,7
+292,EE 735,Microelectronics Simulations Lab,EE,,,I - Pradeep R. Nair, 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,7
+293,EE 736,Introduction to Stochastic Optimization,EE,,,I - Vivek S. Borkar, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,7
+294,EE 737,Introduction to Stochastic Control,EE,,,I - Manjunath D., 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,7
+295,EE 739,Processor Design,EE,,,I - Virendra Singh, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,7
+296,EE 763,Science of Information Statistics and Learning,EE,,,I - Manoj Gopalkrish, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,7
+297,EE 764,Wireless & Mobile Communication,EE,,,I - P.Chaporkar, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,7
+298,EE 767,Photonics System Engineering,EE,,,I - Kasturi Saha, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,7
+299,EE 769,Introduction to Machine Learning,EE,,,I - Amit Sethi, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,7
+300,EE 777,Network Security,EE,,,I - Gaurav S. Kasbekar, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,7
+301,EE 780,Terahertz : Technology & Applications,EE,,,I - Kushal R. Tuckley, 0,,15 Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,15, Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,timetable,  ,7
+302,EE 786,Developments Trends and Economic Frontiers in EE,EE,,,I - Animesh Kumar, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,7
+303,EE 790,Solar Photovoltaics: Photons to Farms,EE,,,I - Pradeep R. Nair, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,7
+304,EE 791,Power Electronic Converters for Renewable Energy,EE,,,I - Sandeep Ad, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,7
+305,EE 792,Communication Skills -II,EE,,,I - Narendra Shiradkar, 0,,4 Tue-4B-08:30:00-09:25:00,4,Tue-4B-08:30:00-09:25:00,timetable,  ,7
+306,EE 793,Topics in Cryptology,EE,,,I - Sule V.R., 30,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,7
+307,EE 799,Advanced Antennas,EE,,,I - J.Mukherjee, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,7
+308,EE 800,High Speed Interconnects: Signaling and Synchronization,EE,,,I - S.Gupta, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,8
+309,EN 204,Material Science for Energy Applications,EN,,,I - Shaibal Sarkar, 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,2
+310,EN 212,Electrical Machines,EN,,,I - D. Suryanarayana, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,2
+311,EN 214,Transport Phenomena,EN,,,I - Venkatasailanathan Ramadesigan, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,2
+312,EN 216,Renewable Energy Technologies,EN,,,I - Sagar Mitra, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,2
+313,EN 218,Energy Resources Economics & Environment,EN,,,I - Anish Modi, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,2
+314,EN 301,Introduction to Renewable Energy Technologies,EN,,,I - Sagar Mitra, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,3
+315,EN 302,Power Generation and System Planning,EN,,,A - Suneet Singh I - Bandyopadhyay Santanu, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,3
+316,EN 304,Electrical Energy Systems,EN,,,I - Zakir H. Rather, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,3
+317,EN 308,Solar Energy Lab,EN,,,I - Anish Modi, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,3
+318,EN 310,IC Engine and Combustion Lab,EN,,,A - Sandeep Kumar I - Asish Sarangi, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,3
+319,EN 312,Control & Instrumentation,EN,,,I - V.S.S. Pavan Kumar Hari, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,3
+320,EN 410,Energy Management,EN,,,I - Seethamraju Srinivas, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,4
+321,EN 412,Thermodynamics and Statistical Mechanics,EN,,,I - K.R. Balasubramaniam, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,4
+322,EN 414,Methods in Analytical Techniques,EN,,,I - Sankara Sarma V. Tatiparti, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,4
+323,EN 415,Energy Laboratory I,EN,,,I - Rajesh Gupta, 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,4
+324,EN 418,Introduction to Transport Phenomena,EN,,,I - Lalit Kumar, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,4
+325,EN 604,Fuel Cells,EN,,,I - P.C.Ghosh, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,6
+326,EN 607,Energy Management,EN,,,I - Seethamraju Srinivas, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,6
+327,EN 610,Hydrogen Energy,EN,,,I - Pratibha Sharma, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,6
+328,EN 612,Non-conventional Energy Systems Lab.,EN,,,I - K.R. Balasubramaniam, 0,,L3 Thu-L3-14:00:00-16:55:00,L3, Thu-L3-14:00:00-16:55:00,timetable,  ,6
+329,EN 640,Solar Photovoltaic Fundamentals Technologies and Applications,EN,,,I - Rajesh Gupta, 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,6
+330,EN 642,Power Generation and Systems Planning,EN,,,A - Suneet Singh I - Bandyopadhyay Santanu, 35,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,6
+331,EN 648,Combustion Engineering,EN,,,I - Asish Sarangi, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+332,EN 653,Energy Policy Analysis,EN,,,I - Banerjee Rangan, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+333,EN 657,IC Engine Alternate Fuels and Emissions,EN,,,I - Sandeep Kumar, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,6
+334,EN 661,Micro and Nanoscale Energy Transport,EN,,,I - Karthik Sasihithlu, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+335,EN 792,Communication Skills -II,EN,,,I - Dayadeep S. Monder, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,7
+336,ENT205,Intellectual Property for Entrepreneurs,ENT,,,A - Rajkumar R. Hirwani I - M.D.Atrey, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,2
+337,ENT206,Developing a Proof-of-Concept - Advanced,ENT, M,,I - P Kumaresan, 15,,X Wed-X1-14:00:00-15:00:00,0,Wed-X1-14:00:00-15:00:00,timetable,  ,2
+338,ENT208,Technology Venture Creation,ENT,,,A - A. T. Kusre A - Rajen Jaswa I - Rohan Chinchwadkar, 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,2
+339,ENT208,Technology Venture Creation,ENT, M,,A - A. T. Kusre A - Rajen Jaswa I - Rohan Chinchwadkar, 50,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,2
+340,ENT210,Marketing for Entrepreneurs,ENT,,,A - Devdip Purkayastha A - P Kumaresan I - A. T. Kusre, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,2
+341,ENT601,Intellectual Property for Entrepreneurs,ENT,,,A - Rajkumar R. Hirwani I - M.D.Atrey, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+342,ENT602,Technology Venture Creation,ENT,,,A - A. T. Kusre A - Rajen Jaswa I - Rohan Chinchwadkar, 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,6
+343,ENT604,Marketing for Entrepreneurs,ENT,,,A - Devdip Purkayastha A - P Kumaresan I - A. T. Kusre, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+344,ES 102,Water Quality Management,ES,,,I - Sanjeev Chaudhari, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,1
+345,ES 200,Environmental Studies: Science and Engineering,ES, S1, View,A - Manoranjan Sahu A - Venkata Sai Vamsi Botlaguduru I - Amritanshu Shriwastav, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,2
+346,ES 200,Environmental Studies: Science and Engineering,ES, S2, View,A - Munish Kumar Chandel A - Swatantra Pratap Singh I - Virendra Sethi, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,2
+347,ES 204,Environmental Chemistry,ES, M,,I - Tabish Nawaz, 20,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,2
+348,ES 206,Water Resources & Open Channel Flow,ES,,,A - Subhankar Karmakar I - Anurag Garg, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,2
+349,ES 210,Introduction to Solid Mechanics,ES,,,I - Venkata Sai Vamsi Botlaguduru, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,2
+350,ES 212,Environmental Geodesy,ES,,,I - Abhishek Chakraborty, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,2
+351,ES 216,GIS Aided Environmental Planning and Management,ES,,,A - Surya Durbha I - Subhankar Karmakar, 0,,14 Fri-14B-17:30:00-18:55:00 Fri-5B-09:30:00-10:55:00 Tue-14A-17:30:00-18:55:00 Wed-5A-09:30:00-10:55:00,14, Fri-14B-17:30:00-18:55:00 Fri-5B-09:30:00-10:55:00 Tue-14A-17:30:00-18:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,2
+352,ES 216,GIS Aided Environmental Planning and Management,ES,,,A - Surya Durbha I - Subhankar Karmakar, 0,,5 Fri-14B-17:30:00-18:55:00 Fri-5B-09:30:00-10:55:00 Tue-14A-17:30:00-18:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-14B-17:30:00-18:55:00 Fri-5B-09:30:00-10:55:00 Tue-14A-17:30:00-18:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,2
+353,ES 252,Environmental Chemistry Lab,ES,,,I - Harish C. Phuleria, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,2
+354,ES 306,Environment Systems Modeling,ES, M,,A - Amritanshu Shriwastav I - Venkata Sai Vamsi Botlaguduru, 5,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,3
+355,ES 451,Field Studies,ES,,,A - Amritanshu Shriwastav I - Swatantra Pratap Singh, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,4
+356,ES 600,Environmental Science and Engineering,ES,,,A - Abhishek Chakraborty I - Swatantra Pratap Singh, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+357,ES 616,Energy Conversion and Environment,ES,,,I - Munish Kumar Chandel, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+358,ES 624,Hazardous Waste Management,ES,,,A - Munish Kumar Chandel I - Anurag Garg, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+359,ES 644,Industrial Pollution Prevention and Clean Technologies,ES,,,I - S.R.Asolekar, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+360,ES 644,Industrial Pollution Prevention and Clean Technologies,ES, M,,I - S.R.Asolekar, 10,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+361,ES 656,Bioremediation - Principles and Applications,ES,,,I - Suparna Mukherji, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+362,ES 664,Environmental Systems Modelling,ES, M,,I - A.K.Dikshit, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+363,ES 666,Biological Treatment Technologies,ES,,,A - Suparna Mukherji I - Anurag Garg, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,6
+364,ES 672,Air Pollution Control Technologies,ES,,,A - Tabish Nawaz I - Abhishek Chakraborty, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+365,ES 674,Aerosol Science and Engineering,ES,,,I - Virendra Sethi, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+366,ES 680,GIS for Environmental Planning and Management,ES,,,I - A.K.Dikshit, 0,,4 Mon-4A-11:35:00-12:30:00 Mon-9A-15:30:00-16:55:00 Thu-4C-09:30:00-10:25:00 Thu-9B-15:30:00-16:55:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Mon-9A-15:30:00-16:55:00 Thu-4C-09:30:00-10:25:00 Thu-9B-15:30:00-16:55:00 Tue-4B-08:30:00-09:25:00,timetable,  ,6
+367,ES 680,GIS for Environmental Planning and Management,ES,,,I - A.K.Dikshit, 0,,9 Mon-4A-11:35:00-12:30:00 Mon-9A-15:30:00-16:55:00 Thu-4C-09:30:00-10:25:00 Thu-9B-15:30:00-16:55:00 Tue-4B-08:30:00-09:25:00,9,Mon-4A-11:35:00-12:30:00 Mon-9A-15:30:00-16:55:00 Thu-4C-09:30:00-10:25:00 Thu-9B-15:30:00-16:55:00 Tue-4B-08:30:00-09:25:00,timetable,  ,6
+368,ES 682,Numerical Methods for Environmental Systems,ES,,,A - Amritanshu Shriwastav I - Tabish Nawaz, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,6
+369,ES 684,Design of Water and Wastewater Systems,ES,,,I - Sanjeev Chaudhari, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,6
+370,ES 792,Communication Skills -II,ES,,,A - Harish C. Phuleria I - Virendra Sethi, 0,,13 Thu-13B-19:00:00-20:25:00,13, Thu-13B-19:00:00-20:25:00,timetable,  ,7
+371,ET 611,Learning Sciences,ET, M,,I - Chandan Dasgupta, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+372,ET 614,Instructional Systems Design,ET, M,,I - Sahana Murthy, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,6
+373,ET 620,Educational Neuroscience,ET, M,,I - Ritayan Mitra, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+374,ET 792,Communication Skills -II,ET, M,,I - S. R. Iyer, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,7
+375,GNR402,Introduction to Geographic Information Systems,GNR, M,,I - Surya Durbha, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+376,GNR410,Digital Photogrammetry and GPS,GNR, M,,I - Gedam S.S., 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+377,GNR602,Advanced Methods in Satellite Image Processing,GNR,,,I - Mohan B.Krishna, 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,6
+378,GNR618,Remote Sensing and GIS Applications to Cryosphere,GNR,,,I - Gulab Singh, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+379,GNR628,Planetary Spectroscopy and Remote Sensing,GNR,,,I - Alok Porwal, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+380,GNR629,Advances in Geospatial Standards Interoperability and Knowledge Discovery,GNR,,,I - Surya Durbha, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+381,GNR630,Introduction to Geospatial Technologies,GNR,,,A - Gedam S.S. I - Mohan B.Krishna, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+382,GNR631,Rural Informatics,GNR,,,I - Adinarayana J., 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+383,GNR633,Remote Sensing and GIS Applications to Mineral and Hydrocarbon Exploration,GNR,,,I - Alok Porwal, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,6
+384,GNR639,Natural Disaster Assessment and Management,GNR,,,I - Gulab Singh, 0,,7 Fri-7B-08:30:00-09:25:00 Wed-7A-08:30:00-09:25:00,7,Fri-7B-08:30:00-09:25:00 Wed-7A-08:30:00-09:25:00,timetable,  ,6
+385,GNR640,Geospatial Statistics,GNR,,,I - Karthikeyan Lanka, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+386,GNR642,Scattering Models in Microwave Remote Sensing,GNR,,,I - Gulab Singh, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+387,GNR644,Remote Sensing of Surface Water Resources,GNR,,,I - Karthikeyan Lanka, 0,,15 Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,15, Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,timetable,  ,6
+388,GNR646,Polarization Radar and SAR Polarimetry,GNR,,,I - Gulab Singh, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+389,GNR647,Microwave Remote Sensing,GNR,,,A - Rao Y.S. I - Avik Bhattacharya, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+390,GNR651,Digital Photogrammetry and Cartography,GNR,,,I - Gedam S.S., 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,6
+391,GNR652,Machine Learning for Remote Sensing-I,GNR,,,I - Biplab Banerjee, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+392,GNR792,Communication Skills -II,GNR,,,A - Avik Bhattacharya I - Adinarayana J., 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,7
+393,GP 402,Gravity and Magnetic Methods,GP,,,I - M. Radhakrishna, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,4
+394,GP 408,Gravity and Magnetic Lab,GP,,,I - M. Radhakrishna, 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,4
+395,GP 414,Electrical Methods,GP,,,I - Ad Singh, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,4
+396,GP 415,Mineralogy & Petrology Lab,GP,,,I - Patel S.C., 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,4
+397,GP 416,Structural Geology & Stratigraphy,GP,,,I - Soumyajit Mukherjee, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,4
+398,GP 418,Exploration Seismology I,GP,,,I - Bharath C. Shekar, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,4
+399,GP 420,Structural Geology & Stratigraphy Lab,GP,,,I - Soumyajit Mukherjee, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,4
+400,GP 502,Well Logging,GP,,,I - Mohan G., 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,5
+401,GP 506,Geophysical Inverse Theory,GP,,,I - Satish Maurya, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,5
+402,GP 516,Petroleum Geology and Petrophysics,GP,,,I - Kumar Hemant Singh, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,5
+403,GP 518,Process Geomorphology Remote Sensing and GIS,GP,,,I - D. Ramakrish, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,5
+404,GS 318,Applied Geology for Civil Engineers,GS,,,A - Vikram Vishal I - Prabhakar Naraga, 0,,L1 Wed-XC-17:30:00-18:55:00,L1, Wed-XC-17:30:00-18:55:00,timetable,  ,3
+405,GS 318,Applied Geology for Civil Engineers,GS,,,A - Vikram Vishal I - Prabhakar Naraga, 0,,X Wed-XC-17:30:00-18:55:00,0,Wed-XC-17:30:00-18:55:00,timetable,  ,3
+406,GS 413,Structural Geology Lab,GS,,,I - Soumyajit Mukherjee, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,4
+407,GS 416,Petrology Lab,GS,,,A - Banerjee Santanu A - Patel S.C. I - Sheth C Hetu, 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,4
+408,GS 422,Geomorphology Remote Sensing & GIS,GS,,,I - D. Ramakrish, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,4
+409,GS 430,Metamorphic Petrology,GS,,,I - Patel S.C., 0,,1 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,4
+410,GS 433,Palaeontology Lab,GS,,,I - Jahnavi Punekar, 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,4
+411,GS 434,Igneous Petrology and Volcanology,GS,,,I - Sheth C Hetu, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,4
+412,GS 436,Sedimentlogy,GS,,,A - Banerjee Santanu I - Sudipta Dasgupta, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,4
+413,GS 438,Economic and Mining Geology,GS,,,A - Jadhav G.N. A - Pandalai H.S. I - Sakthi Sarava Chinnasamy, 0,,2 Mon-1A-08:30:00-09:25:00 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-1A-08:30:00-09:25:00 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,4
+414,GS 440,Geomorphology Remote Sensing and GIS lab,GS,,,I - D. Ramakrish, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,4
+415,GS 519,Ore Petrography Lab,GS,,,A - Jadhav G.N. I - Sakthi Sarava Chinnasamy, 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,5
+416,GS 530,Micropalaeontology,GS,,,I - Jahnavi Punekar, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,5
+417,GS 534,Tectonics and Crustal Evolution,GS,,,I - Biswal T.K., 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,5
+418,GS 536,Nuclear Geology and Geochemical Prospecting,GS,,,A - Mathew George I - Sakthi Sarava Chinnasamy, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,5
+419,GS 538,Petroleum and Coal Geology,GS,,,I - Banerjee Santanu, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,5
+420,GS 540,Climate Geology,GS,,,I - Biswal T.K., 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,5
+421,GS 541,Analytical Geochemistry Lab,GS,,,I - Patel S.C., 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,5
+422,GS 544,Mineral Beneficiation,GS,,,I - Jadhav G.N., 0,,7 Fri-7B-08:30:00-09:25:00 Wed-7A-08:30:00-09:25:00,7,Fri-7B-08:30:00-09:25:00 Wed-7A-08:30:00-09:25:00,timetable,  ,5
+423,GS 662,Petroliferous basins of India,GS,,,A - Sudipta Dasgupta I - Jahnavi Punekar, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+424,GS 668,Nonlinear and Adaptive Data Analysis Techniques,GS,,,I - E. Chandrasekhar, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+425,GS 672,Reservoir Sedimentology,GS,,,A - Banerjee Santanu A - Sudipta Dasgupta I - Jahnavi Punekar, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+426,GS 676,Well Logging,GS,,,I - Mohan G., 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,6
+427,GS 687,Methods in Structural Geology,GS,,,I - Malay Mukul, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,6
+428,GS 706,Petrophysics,GS,,,I - Kumar Hemant Singh, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,7
+429,GS 792,Communication Skills -II,GS,,,A - Malay Mukul I - E. Chandrasekhar, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,7
+430,HS 101,Economics,HS,,,I - Haripriya Gundimeda, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,1
+431,HS 200,Environmental Studies,HS, S1, View,A - Aditi Balkrishna Chaubal A - Parthasarathy D. A - Saptarshi Prosonno Ghosh I - Rajkishore Nath, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,2
+432,HS 200,Environmental Studies,HS, S2, View,A - Aditi Balkrishna Chaubal A - Parthasarathy D. A - Saptarshi Prosonno Ghosh I - Rajkishore Nath, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,2
+433,HS 208,Approaches to Literaturers,HS,,,A - Suddhaseel Sen I - Sharmila, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,2
+434,HS 208,Approaches to Literaturers,HS, M,,A - Suddhaseel Sen I - Sharmila, 40,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,2
+435,HS 210,Intermediate Microeconomics II,HS,,,I - Saptarshi Prosonno Ghosh, 0, View,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,2
+436,HS 212,Intermediate Macroeconomics II,HS,,,A - Souvik Banerjee I - Trivedi Pushpa, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,2
+437,HS 214,Statistics II,HS,,,I - Aditi Balkrishna Chaubal, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,2
+438,HS 216,Money and Banking,HS,,,I - Pooja Padhi, 0,,15 Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,15, Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,timetable,  ,2
+439,HS 302,International Economics II,HS,,,I - Trivedi Pushpa, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,3
+440,HS 304,Development Economics II,HS,,,I - Rama Pal, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,3
+441,HS 401,Introduction to Paninian Grammar,HS,,,I - Kulkarni A Malhar, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,4
+442,HS 405,Econometrics II,HS,,,I - Tara S. Shaw, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,4
+443,HS 411,Indian Economy,HS,,,I - Naraya K., 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,4
+444,HS 431,Reading Fiction,HS,,,A - Shastri Sudha I - Ratheesh R., 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,4
+445,HS 440,Industrial Economics,HS,,,I - Subrato Banerjee, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,4
+446,HS 448,Professional Ethics,HS,,,I - Vikram Singh Sirola, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,4
+447,HS 449,Capitalism : theories histories varieties,HS,,,I - Anush Kapadia, 30,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,4
+448,HS 451,Cognition and Emotion,HS,,,I - Rashmi Gupta, 50,,,0,,timetable,  ,4
+449,HS 457,Managerial Economics,HS, M,,I - Surajit Bhattacharya, 40,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+450,HS 491,Contemporary Urban India; Sociological Perspective,HS,,,I - Kushal Deb, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,4
+451,HS 502,Madhyamika Philosophy in the Buddhist Tradition,HS,,,I - C.D. Sebastian, 0, View,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,5
+452,HS 504,Western Philosophy in the Time of Crisis,HS,,,I - Amrita Banerjee, 0, View,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,5
+453,HS 506,Writing and Research in Philosophy,HS,,,I - Siby K.George, 0, View,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,5
+454,HS 602,Science & Technology in India,HS,,,I - Ahonaa Roy, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,6
+455,HS 606,Environmental Planning Development,HS,,,I - Haripriya Gundimeda, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+456,HS 618,Introduction to Indian Astronomy,HS,,,I - K. Ramasubramanian, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+457,HS 621,Contemporary Indian Philosophy,HS,,,I - Ratikanta Panda, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+458,HS 624,Contemporary Issues in Philosophy of Mind,HS,,,I - Rajkishore Nath, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+459,HS 625,Philosophy of Education,HS,,,I - R.K. Panda, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+460,HS 626,Framing Caste,HS,,,I - Ramesh Bairy, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+461,HS 629,Ecology and Society,HS,,,I - Sarmistha Pattanaik, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+462,HS 634,Theories of Verbal Congnition (Shaabdabodha),HS,,,I - Kulkarni A Malhar, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+463,HS 710,Consumer Psychology,HS,,,I - A. Khan, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,7
+464,HS 791,Communication Skills -I,HS, S1,,I - Ramesh Bairy, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,7
+465,HS 791,Communication Skills -I,HS, S2,,I - Ramesh Bairy, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,7
+466,HS 791,Communication Skills -I,HS, S3,,I - Ramesh Bairy, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,7
+467,HS 791,Communication Skills -I,HS, S4,,I - Ramesh Bairy, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,7
+468,HS 792,Communication Skills -II,HS,,,A - Amrita Banerjee A - Ramesh Bairy A - Robinson Rowena A - Suddhaseel Sen I - K. Ramasubramanian, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,7
+469,HS 803,Advanced Psychological Theory,HS,,,A - A. Khan A - Rashmi Gupta I - Pooja Purang, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,8
+470,HS 804,Advanced Theory of Society,HS,,,I - Robinson Rowena, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,8
+471,HS 809,Practice and Theory of Literary Research,HS,,,A - Shastri Sudha I - Suddhaseel Sen, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,8
+472,HS 813,Structure of Language & its applications Morphophonology and ELT,HS,,,I - Sarma Vaijayanthi, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,8
+473,HS 814,Architecture of Grammer & its applications Syntax Semantics and Sociolinguistics,HS,,,I - Sarma Vaijayanthi, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,8
+474,HS 815,Languages in Cognitive Science,HS,,,I - Sarma Vaijayanthi, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,8
+475,HS 818,Sociology of Social Stratification in India,HS,,,I - Parthasarathy D., 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,8
+476,HS 821,Applied Econometrics,HS,,,A - Pooja Padhi A - Souvik Banerjee I - Aditi Balkrishna Chaubal, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,8
+477,HS 822,The Study of one Major Indian Writer in English,HS,,,A - Sharmila I - Ratheesh R., 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,8
+478,HS 837,Aesthetics and Criticism,HS,,,I - Arun A. Iyer, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,8
+479,HS 840,Paninian Grammar,HS,,,I - Kulkarni A Malhar, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,8
+480,HS 845,Indian Logic,HS,,,I - K. Ramasubramanian, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,8
+481,HS 859,Advanced Research Techniques in Psychology,HS,,,I - Pooja Purang, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,8
+482,HS 860,Archive and the Arts,HS,,,I - Sharmistha Saha, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,8
+483,IE 604,Systems Dynamics Modeling & Analysis,IE,,,I - J. Venkateswaran, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,6
+484,IE 613,Online Learning,IE,,,I - Manjesh K. Hanawal, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+485,IE 613,Online Learning,IE, M,,I - Manjesh K. Hanawal, 30,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+486,IE 614,Linear Systems,IE,,,I - P. Balamurugan, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+487,IE 616,Decision Analysis and Game Theory,IE,,,I - K.S.Mallikarjuna Rao, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,6
+488,IE 616,Decision Analysis and Game Theory,IE, M,,I - K.S.Mallikarjuna Rao, 40,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,6
+489,IE 622,Probability and Stochastic Processes II,IE,,,I - N. Hemachandra, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+490,IE 622,Probability and Stochastic Processes II,IE, M,,I - N. Hemachandra, 40,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+491,IE 630,Simulation Modeling and Analysis,IE,,,A - Veeraruna Kavitha I - J. Venkateswaran, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+492,IE 630,Simulation Modeling and Analysis,IE, M,,A - Veeraruna Kavitha I - J. Venkateswaran, 50,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+493,IE 663,Advanced Topics in Deep Learning,IE,,,I - P. Balamurugan, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+494,IE 683,Topics in Learning Algorithms,IE,,,I - N. Hemachandra, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+495,IE 683,Topics in Learning Algorithms,IE, M,,I - N. Hemachandra, 20,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+496,IE 684,IEOR Lab,IE,,,A - N. Hemachandra I - P. Balamurugan, 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,6
+497,IE 714,Quantitative Models for Supply Chain Management,IE,,,I - Rangaraj Narayan, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,7
+498,IE 716,Integer Programming: Theory and Computations,IE,,,I - Ashutosh Mahajan, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,7
+499,IE 716,Integer Programming: Theory and Computations,IE, M,,I - Ashutosh Mahajan, 40,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,7
+500,IE 792,Communication Skills -II,IE,,,A - V. Naraya I - Siddhartha SenGupta, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,7
+501,MA 105,Calculus,MA,,,I - K. Sureshkumar, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,1
+502,MA 105,Calculus,MA,,,I - I12059 - Ashutosh Mahajan,,,X Wed-XD-19:00:00-20:25:00,0,Wed-XD-19:00:00-20:25:00,tutorial,  ,1
+503,MA 214,Introduction to Numerical Analysis,MA, S1,,A - Saikat Mazumdar I - Harsha Hutridurga Ramaiah, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,2
+504,MA 214,Introduction to Numerical Analysis,MA, S1,,A - 10001865 - Saikat Mazumdar I - 10001788 - Harsha Hutridurga Ramaiah,,,X Wed-XC-17:30:00-18:55:00,0,Wed-XC-17:30:00-18:55:00,tutorial,  ,2
+505,MA 214,Introduction to Numerical Analysis,MA, S2,,A - Saikat Mazumdar I - Harsha Hutridurga Ramaiah, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,2
+506,MA 214,Introduction to Numerical Analysis,MA, S2,,A - 10001865 - Saikat Mazumdar I - 10001788 - Harsha Hutridurga Ramaiah,,,X Wed-XC-17:30:00-18:55:00,0,Wed-XC-17:30:00-18:55:00,tutorial,  ,2
+507,MA 406,General Topology,MA,,,I - Santanu Dey, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,4
+508,MA 406,General Topology,MA,,,I - I09095 - Santanu Dey,,,X Wed-X3-16:00:00-17:00:00 Wed-XD-19:00:00-20:25:00,0,Wed-X3-16:00:00-17:00:00 Wed-XD-19:00:00-20:25:00,tutorial,  ,4
+509,MA 406,General Topology,MA, M,,I - Sandip Singh, 20,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+510,MA 408,Measure Theory,MA,,,I - Niranjan Balachandran, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,4
+511,MA 408,Measure Theory,MA,,,I - I11107 - Niranjan Balachandran,,,X Wed-X1-14:00:00-15:00:00,0,Wed-X1-14:00:00-15:00:00,tutorial,  ,4
+512,MA 410,Multivariable Calculus,MA,,,I - Preeti Raman, 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,4
+513,MA 412,Complex Analysis,MA,,,I - Bata K. Das, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,4
+514,MA 412,Complex Analysis,MA,,,,,,12 Mon-12A-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00,tutorial,  ,4
+515,MA 414,Algebra I,MA,,,I - Sudarshan Gurjar, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,4
+516,MA 414,Algebra I,MA,,,I - I15214 - Sudarshan Gurjar,,,X Wed-X2-15:00:00-16:00:00,0,Wed-X2-15:00:00-16:00:00,tutorial,  ,4
+517,MA5106,Introduction to Fourier Analysis,MA,,,I - Sanjoy Pusti, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,1
+518,MA5106,Introduction to Fourier Analysis,MA, M,,I - Sanjoy Pusti, 20,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,1
+519,MA5108,Lie Groups & Lie Algebras,MA,,,I - Garge Shripad M., 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,1
+520,MA5110,Non-commutative Algebra,MA,,,I - Puthenpurakal J Tony, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,1
+521,MA5112,Introduction to Mathematical Methods,MA,,,I - Sivaji Ganesh S., 0,,7 Fri-7B-08:30:00-09:25:00 Wed-7A-08:30:00-09:25:00,7,Fri-7B-08:30:00-09:25:00 Wed-7A-08:30:00-09:25:00,timetable,  ,1
+522,MA5112,Introduction to Mathematical Methods,MA,,,,,,15 Tue-15A-19:00:00-20:25:00,15, Tue-15A-19:00:00-20:25:00,tutorial,  ,1
+523,MA 524,Algebraic Number Theory,MA,,,I - U.K.Adavardha, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,5
+524,MA 526,Commutative Algebra,MA,,,I - Verma J.K., 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,5
+525,MA 528,Hyperplane Arrangements,MA,,,I - Swapneel A. Mahajan, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,5
+526,MA 532,Analytic Number Theory,MA,,,I - Saurav Bhaumik, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,5
+527,MA 534,Modern Theory of PDE,MA,,,I - Pani A.K., 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,5
+528,MA 540,Numerical Methods for Partial Differential Equations,MA,,,I - Nataraj Neela, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,5
+529,MA 581,Elements of Differential Topology,MA,,,I - G. K. Srinivasan, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,5
+530,MA 812,Algebra II,MA,,,I - Ravi Raghunathan, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,8
+531,MA 814,Complex Analysis,MA,,,I - Sourav Pal, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,8
+532,MA 816,Algebraic Topology,MA,,,I - Ronnie M. Sebastain, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,8
+533,MA 818,Partial Differential Equations II,MA,,,I - M. Vanninathan, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,8
+534,MA 820,Stochastic Processes,MA,,,I - Koushik Saha, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,8
+535,MA 823,Probability,MA,,,I - K. Sureshkumar, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,8
+536,MA 824,Functional Analysis,MA,,,I - Mayukh Mukherjee, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,8
+537,MA 839,Advanced Commutative Algebra,MA,,,I - Athnarayan Hariharan, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,8
+538,MA 846,Topics in Combinatories II,MA,,,I - K. Sivasubramanian, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,8
+539,MA 862,Combinatorics II,MA,,,I - Srinivasan M.K., 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,8
+540,MA 867,Statistical Modelling- I,MA,,,I - S. Mukhopadhyay, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,8
+541,SI 402,Statistical Inference,SI,,,I - Sabnis S.V., 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,4
+542,SI 402,Statistical Inference,SI,,,,,,7 Wed-7A-08:30:00-09:25:00,7,Wed-7A-08:30:00-09:25:00,tutorial,  ,4
+543,SI 404,Applied Stochastic Processes,SI,,,I - Ayan Bhattacharya, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+544,SI 404,Applied Stochastic Processes,SI, M,,I - Ayan Bhattacharya, 20,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+545,SI 408,Data Structures,SI,,,I - Madhusudan Manjunath, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,4
+546,SI 408,Data Structures,SI,,,,,,7 Fri-7B-08:30:00-09:25:00,7,Fri-7B-08:30:00-09:25:00,tutorial,  ,4
+547,SI 416,Optimization,SI,,,I - Sabnis S.V., 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,4
+548,SI 422,Regression Analysis,SI,,,I - Monika Bhattacharjee, 0,,8 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00 Wed-X1-14:00:00-15:00:00 Wed-X2-15:00:00-16:00:00,8,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00 Wed-X1-14:00:00-15:00:00 Wed-X2-15:00:00-16:00:00,timetable,  ,4
+549,SI 509,Time Series Analysis,SI,,,I - Joshi Rajani R., 0, View,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,5
+550,SI 509,Time Series Analysis,SI,,,,, View,X Wed-X1-14:00:00-15:00:00,0,Wed-X1-14:00:00-15:00:00,tutorial,  ,5
+551,SI 514,Statistical Modeling,SI,,,I - Ashish Das, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,5
+552,SI 526,Experimental Designs,SI,,,I - Subramanyam A., 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,5
+553,SI 527,Introduction to Derivative Pricing,SI,,,I - S.Baskar, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,5
+554,SI 534,Nonparametric Statistics,SI,,,I - Radhendushka Srivastava, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,5
+555,SI 536,Analysis of Multi-Type and Big Data,SI,,,I - Kalyan Das, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,5
+556,ME 202,Strength of Materials,ME, S1,,I - Amit Singh, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,2
+557,ME 202,Strength of Materials,ME, S2,,I - Salil Kulkarni, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,2
+558,ME 206,Manufacturing Processes I,ME, S1,,I - Pradeep Dixit, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,2
+559,ME 206,Manufacturing Processes I,ME, S2,,I - Rakesh G. Mote, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,2
+560,ME 206,Manufacturing Processes I,ME, S3,,I - R.K.Singh, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,2
+561,ME 209,Thermodynamics,ME,,,I - Arindrajit Chaudhari, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,2
+562,ME 213,Manufacturing Practice Lab,ME, S1,,A - De Amitava I - Amber Shrivastava, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,2
+563,ME 213,Manufacturing Practice Lab,ME, S2,,A - De Amitava I - Amber Shrivastava, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,2
+564,ME 213,Manufacturing Practice Lab,ME, S3,,A - De Amitava I - Amber Shrivastava, 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,2
+565,ME 218,Solid Mechanics Lab,ME, S1,,A - Alankar Alankar I - Krishna Jonnalagadda, 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,2
+566,ME 218,Solid Mechanics Lab,ME, S2,,A - Alankar Alankar I - Krishna Jonnalagadda, 0,,L3 Thu-L3-14:00:00-16:55:00,L3, Thu-L3-14:00:00-16:55:00,timetable,  ,2
+567,ME 220,Theory of Machines and Machine Design,ME,,,A - Shantanu Tripathi I - Vivek Sangwan, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,2
+568,ME 224,Fluid Mechanics Lab,ME,,,A - Abhilash Chandy A - Neeraj Kumbhakarna I - Shivasubramanian Gopalakrish, 0,,,0,,timetable,  ,2
+569,ME 224,Fluid Mechanics Lab,ME, S2,,I - Shivasubramanian Gopalakrish, 0,,,0,,timetable,  ,2
+570,ME 224,Fluid Mechanics Lab,ME, S3,,I - Abhilash Chandy, 0,,,0,,timetable,  ,2
+571,ME 226,Mechanical Measurements,ME, S1,,I - Dipanshu Bansal, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,2
+572,ME 226,Mechanical Measurements,ME, S2,,I - Atul Srivastava, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,2
+573,ME 226,Mechanical Measurements,ME, S3,,I - Amit Agrawal, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,2
+574,ME 306,Applied Thermodynamics,ME, S1,,I - Bhalchandra Puranik, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,3
+575,ME 306,Applied Thermodynamics,ME, S2,,I - Upendra Bhandarkar, 0,,7 Fri-7B-08:30:00-09:25:00 Wed-7A-08:30:00-09:25:00,7,Fri-7B-08:30:00-09:25:00 Wed-7A-08:30:00-09:25:00,timetable,  ,3
+576,ME 306,Applied Thermodynamics,ME, S3,,I - Vedula R.P., 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,3
+577,ME 307,Mechanical Measurements Lab,ME, S1,,I - Avishek Ranjan, 0,,,0,,timetable,  ,3
+578,ME 307,Mechanical Measurements Lab,ME, S2,,I - Sridhar Balasubramanian, 0,,,0,,timetable,  ,3
+579,ME 307,Mechanical Measurements Lab,ME, S3,,I - Ankit Jain, 0,,,0,,timetable,  ,3
+580,ME 308,Industrial Engineering and Operations Research I,ME, S1,,I - Avinash Bhardwaj, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,3
+581,ME 308,Industrial Engineering and Operations Research I,ME, S2,,I - Makarand S. Kulkarni, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,3
+582,ME 316,Kinematics and Dynamics of Machines,ME, M,,I - Sripriya Ramamoorthy, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,3
+583,ME 316,Kinematics and Dynamics of Machines,ME, S1,,I - Gandhi Prasanna S., 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,3
+584,ME 316,Kinematics and Dynamics of Machines,ME, S2,,I - Sripriya Ramamoorthy, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,3
+585,ME 370,Kinematics and Dynamics of Machines Lab,ME, S1,,A - V. Kartik I - Guha Anirban, 0,,L3 Thu-L3-14:00:00-16:55:00,L3, Thu-L3-14:00:00-16:55:00,timetable,  ,3
+586,ME 370,Kinematics and Dynamics of Machines Lab,ME, S2,,A - V. Kartik I - Guha Anirban, 0,,L3 Thu-L3-14:00:00-16:55:00,L3, Thu-L3-14:00:00-16:55:00,timetable,  ,3
+587,ME 370,Kinematics and Dynamics of Machines Lab,ME, S3,,A - V. Kartik I - Guha Anirban, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,3
+588,ME 370,Kinematics and Dynamics of Machines Lab,ME, S4,,A - V. Kartik I - Guha Anirban, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,3
+589,ME 372,Heat Transfer and Metrology Lab,ME, S1,,A - Arunkumar Sridharan A - Deepak Marla A - Dipanshu Bansal A - Rajneesh Bhardwaj A - Rakesh G. Mote A - Upendra Bhandarkar I - Soham Mujumdar, 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,3
+590,ME 372,Heat Transfer and Metrology Lab,ME, S2,,A - Arunkumar Sridharan A - Deepak Marla A - Dipanshu Bansal A - Rajneesh Bhardwaj A - Rakesh G. Mote A - Upendra Bhandarkar I - Soham Mujumdar, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,3
+591,ME 372,Heat Transfer and Metrology Lab,ME, S3,,I - Arunkumar Sridharan, 0,,L6 Fri-L6-09:30:00-12:30:00,0, Fri-L6-09:30:00-12:30:00,timetable,  ,3
+592,ME 372,Heat Transfer and Metrology Lab,ME, S4,,I - Dipanshu Bansal, 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,3
+593,ME 412,CFD and HT Lab,ME,,,I - Jai S. Murallidharan, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,4
+594,ME 415,Computational Fluid Dynamics and Heat Transfer,ME,,,I - Sandip Kumar Saha, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,4
+595,ME 420,Cryogenic Engineering I,ME,,,I - M.D.Atrey, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,4
+596,ME 434,Finite Element and Boundary Element Methods,ME,,,I - Parag Tandaiya, 5,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,4
+597,ME 441,Applied Thermodynamics Lab,ME, S1,,I - Rane Milind, 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,4
+598,ME 441,Applied Thermodynamics Lab,ME, S2,,I - Jai S. Murallidharan, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,4
+599,ME 441,Applied Thermodynamics Lab,ME, S3,,I - Arindrajit Chaudhari, 0,,L3 Thu-L3-14:00:00-16:55:00,L3, Thu-L3-14:00:00-16:55:00,timetable,  ,4
+600,ME 441,Applied Thermodynamics Lab,ME, S4,,I - Bhalchandra Puranik, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,4
+601,ME 460,Solid State Joining,ME,,,I - Amber Shrivastava, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,4
+602,ME 472,Nonlinear Dynamics and Chaos,ME,,,I - D.N. Pawaskar, 25, View,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,4
+603,ME 604,Robotics,ME,,,I - Abhishek Gupta, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,6
+604,ME 613,Finite Element and Boundary Element Methods,ME,,,I - Parag Tandaiya, 15,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+605,ME 616,Fracture Mechanics,ME,,,I - Tanmay K. Bhandakkar, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,6
+606,ME 636,Advanced Joining Technology,ME,,,I - De Amitava, 25,,,0,,timetable,  ,6
+607,ME 637,Manufacturing Automation,ME,,,I - Karunakaran K.P., 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+608,ME 643,Materials Processing and Simulation Laboratory,ME,,,A - Asim Tewari A - Date P.P. A - R.K.Singh A - Shyamprasad Karagadde A - Sushil Mishra I - Pande S.S., 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,6
+609,ME 651,Fluid Dynamics,ME,,,I - Avishek Ranjan, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+610,ME 657,Thermal and Fluids Engg Laboratory,ME, S2,,A - Amit Agrawal A - Atul Srivastava A - Shankar Krish A - Sreedhara Sheshadri I - Vedula R.P., 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,6
+611,ME 663,Advanced Heat Transfer,ME,,,I - Arunkumar Sridharan, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+612,ME 673,Mathematical Methods in Engineering,ME,,,I - Abhilash Chandy, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,6
+613,ME 675,Theory of Plasticity,ME,,,I - Krishna Jonnalagadda, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+614,ME 676,Collaborative Engineering,ME,,,I - Ravi B., 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+615,ME 677,Laser Material Processing,ME,,,I - Deepak Marla, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+616,ME 684,Airconditioning System Design,ME,,,I - Rane Milind, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,6
+617,ME 712,Computer Numerical Control and Programming.,ME,,,I - Pande S.S., 40,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,7
+618,ME 714,Computer Integrated manufacturing,ME,,,I - Soham Mujumdar, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,7
+619,ME 730,Ultra-Precision Machining,ME,,,I - S. S. Joshi, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,7
+620,ME 747,Interfacial Transport Phenomena,ME,,,I - Rajneesh Bhardwaj, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,7
+621,ME 748,Computer Aided Simulation of Machines,ME,,,I - Guha Anirban, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,7
+622,ME 750,Sheet Metal Engineering,ME,,,I - Date P.P., 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,7
+623,ME 754,Textile Machines Design & Automation,ME,,,I - Guha Anirban, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,7
+624,ME 759,Nonlinear Finite Element Methods,ME,,,I - Ram Kumar Singh, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,7
+625,ME 761,Advanced Stereology and Microstructural Analysis,ME,,,I - Asim Tewari, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,7
+626,ME 765,Micro-forming,ME,,,I - Sushil Mishra, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,7
+627,ME 766,High Performance Scientific Computing,ME,,,I - Shivasubramanian Gopalakrish, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,7
+628,ME 769,Combustion in Automobile and Gas Turbine Engines,ME,,,I - Sreedhara Sheshadri, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,7
+629,ME 772,Processing of Aerospace Materials-I,ME,,,I - Amol A. Gokhale, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,7
+630,ME 789,Computational Tools for Process Modeling,ME,,,I - Shyamprasad Karagadde, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,7
+631,ME 790,Materials modelling using atomistic first-principles calculations,ME,,,I - Ankit Jain, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,7
+632,ME 792,Communication Skills -II,ME,,,I - Sandip Kumar Saha, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,7
+633,ME 793,Multiscale Materials Informatics Discovery and Design,ME,,,I - Alankar Alankar, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,7
+634,ME 794,Statistical Design of Experiments,ME,,,A - S. S. Joshi I - Soham Mujumdar, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,7
+635,ME 795,Cellular Solids: Properties and Engineering Applications,ME,,,A - Shankar Krish A - Sripriya Ramamoorthy I - Amol A. Gokhale, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,7
+636,MGT804,Qualitative Research Methodologies,MGT,,,I - T.T. Niranjan, 10,,,1,0,timetable,  ,8
+637,MGT805,Survey Research & Experimentation,MGT,,,I - Ashish Singh, 0,,,0,,timetable,  ,8
+638,SOM612,Business Research Methods,SOM,,,I - Ashish Singh, 0,,,0,,timetable,  ,6
+639,SOM613,Corporate Fice - II,SOM,,,I - S.V.D.Nageswara Rao, 0,,,0,,timetable,  ,6
+640,SOM614,Organization Behavior & Human Resources I,SOM,,,I - Bhargava S, 0,,,0,,timetable,  ,6
+641,SOM615,Operations Management II,SOM,,,I - Indrajit Mukherjee, 0,,,0,,timetable,  ,6
+642,SOM616,Technology Management,SOM,,,I - Karuna Jain, 0,,,0,,timetable,  ,6
+643,SOM617,Corporate Strategy,SOM,,,I - Snehal Awate, 0,,,0,,timetable,  ,6
+644,SOM618,Organization Behavior & Human Resources II,SOM,,,I - Ashish Pandey, 0,,,0,,timetable,  ,6
+645,SOM619,Corporate Goverce and Business Ethics,SOM,,,I - Varadraj B. Bapat, 0,,,0,,timetable,  ,6
+646,SOM620,Business and Sustainable Development,SOM,,,I - Trupti Mishra, 60,,,6,0,timetable,  ,6
+647,SOM621,Legal Aspects of Business,SOM,,,I - Varadraj B. Bapat, 0,,,0,,timetable,  ,6
+648,SOM623,Final Project,SOM,,,I - S.N.Rao, 0,,,0,,timetable,  ,6
+649,SOM634,Purchasing and Supply Management,SOM,,,I - Atul Kanyalkar, 40,,,4,0,timetable,  ,6
+650,SOM642,Business Forecasting,SOM,,,I - Pankaj Dutta, 40,,,4,0,timetable,  ,6
+651,SOM643,Introduction to ERP,SOM,,,I - Atul Kanyalkar, 40,,,4,0,timetable,  ,6
+652,SOM652,Indian Ficial and Business Model,SOM,,,I - Varadraj B. Bapat, 60,,,6,0,timetable,  ,6
+653,SOM664,Business to Business Marketing,SOM,,,I - Dinesh Sharma, 60,,,6,0,timetable,  ,6
+654,SOM665,Consumer Behaviour,SOM,,,I - Dinesh Sharma, 60,,,6,0,timetable,  ,6
+655,SOM673,Managerial Effectiveness Skills,SOM,,,I - Bhargava S, 60,,,6,0,timetable,  ,6
+656,SOM679,Competitiveness for Sustainable Enterprise,SOM,,,I - Kiran Kumar Momaya, 50,,,5,0,timetable,  ,6
+657,SOM680,Managing Intellectual Property,SOM,,,I - Karuna Jain, 60,,,6,0,timetable,  ,6
+658,SOM681,Historical and Contemporary Perspectives in International Business,SOM,,,I - S.N.Rao, 60,,,6,0,timetable,  ,6
+659,SOM691,Intelligent Systems,SOM,,,I - Sonar M Rajendra, 60,,,6,0,timetable,  ,6
+660,SOM693,Information Technology Infrastructure Management,SOM,,,I - Sonar M Rajendra, 60,,,6,0,timetable,  ,6
+661,SOM698,Management of Banking and Ficial Services,SOM,,,I - Piyush Pandey, 60,,,6,0,timetable,  ,6
+662,SOM700,Managing Digital Products,SOM,,,I - Sonar M Rajendra, 60,,,6,0,timetable,  ,7
+663,SOM701,Online Marketing,SOM,,,I - Dinesh Sharma, 0,,,0,,timetable,  ,7
+664,SOM707,Behavioral Fice,SOM,,,I - S.N.Rao, 60,,,6,0,timetable,  ,7
+665,SOM711,Behavioural Economics,SOM,,,I - Sarthak Gaurav, 60,,,6,0,timetable,  ,7
+666,SOM712,Management of Digital Transformation in Enterprise,SOM,,,I - Sonar M Rajendra, 60,,,6,0,timetable,  ,7
+667,SOM716,Economics of Firm Strategy,SOM,,,I - Vinish Kathuria, 60,,,6,0,timetable,  ,7
+668,SOM718,Money: Past Present and Future,SOM,,,I - Rohan Chinchwadkar, 40,,,4,0,timetable,  ,7
+669,SOM744,Multivariate Data Analysis,SOM,,,I - Usha Athakumar, 40,,,4,0,timetable,  ,7
+670,MM 203,Mechanics of Materials,MM,,,A - Anirban Patra I - Nagamani J. Balila, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,2
+671,MM 204,Transport Phenomena,MM,,,A - N.N.Viswanathan I - Deepoo Kumar, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,2
+672,MM 206,Experimental Techniques in Materials Science,MM,,,A - Prasanna T.R.S. I - Sudhanshu Mallick, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,2
+673,MM 318,Electronic Properties of Materials,MM, S1,,I - Titas Dasgupta, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,3
+674,MM 318,Electronic Properties of Materials,MM, S2,,I - Amrita Bhattacharya, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,3
+675,MM 320,Principles of Process Metallurgy,MM,,,A - Somnath Basu I - Khosla N.K., 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,3
+676,MM 322,Casting and Joining Lab,MM, S1,,A - Manish M. Pande I - K. Bhanumurthy, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,3
+677,MM 322,Casting and Joining Lab,MM, S2,,A - Manish M. Pande I - K. Bhanumurthy, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,3
+678,MM 323,Manufacturing Processes Laboratory,MM, S1,,A - Ashutosh Gandhi A - Shobha Shukla I - Mithun Chowdhury, 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,3
+679,MM 323,Manufacturing Processes Laboratory,MM, S2,,A - Ashutosh Gandhi A - Shobha Shukla I - Mithun Chowdhury, 0,,L3 Thu-L3-14:00:00-16:55:00,L3, Thu-L3-14:00:00-16:55:00,timetable,  ,3
+680,MM 357,Ceramics and Powder Metallurgy,MM,,,I - Ashutosh Gandhi, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,3
+681,MM 359,Metal Casting and Joining,MM,,,A - K. Bhanumurthy I - Vitta Satish, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,3
+682,MM 406,Semiconductor Devices and Processing,MM,,,I - Dipti Gupta, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,4
+683,MM 408,Mechanical Working of Metals,MM,,,A - Samajdar I. I - Narsimhan K., 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,4
+684,MM 417,Entrepreneurship in Materials Engineering,MM,,,I - N. Venkataramani, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,4
+685,MM 426,Equipment and Processes Design Lab.,MM, S1,,A - Dinkar S. Patil A - K. Bhanumurthy I - V. K. Srivastava, 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,4
+686,MM 426,Equipment and Processes Design Lab.,MM, S2,,A - Dinkar S. Patil A - K. Bhanumurthy I - V. K. Srivastava, 0,,L3 Thu-L3-14:00:00-16:55:00,L3, Thu-L3-14:00:00-16:55:00,timetable,  ,4
+687,MM 448,Thin Films Lab,MM, S1,,A - Dinkar S. Patil I - Avradeep Pal, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,4
+688,MM 448,Thin Films Lab,MM, S2,,A - Dinkar S. Patil I - Avradeep Pal, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,4
+689,MM 454,Corrosion & Protection of Materials,MM,,,A - Smrutiranjan Parida I - Vijayshankar Dandapani, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,4
+690,MM 462,Corrosion & Protection Lab,MM, S1,,A - J Rangarajan A - Smrutiranjan Parida I - Vijayshankar Dandapani, 0,,L2 Tue-L2-14:00:00-16:55:00,L2, Tue-L2-14:00:00-16:55:00,timetable,  ,4
+691,MM 462,Corrosion & Protection Lab,MM, S2,,A - J Rangarajan A - Smrutiranjan Parida I - Vijayshankar Dandapani, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,4
+692,MM 612,Computational Laboratory,MM,,,A - Anirban Patra I - Ajay Singh Panwar, 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,6
+693,MM 622,Advanced Concepts in Iron Making,MM,,,A - Somnath Basu I - N.N.Viswanathan, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+694,MM 624,Advanced Concepts in Steel Making,MM,,,A - Manish M. Pande I - Deepoo Kumar, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,6
+695,MM 626,Thermomechanical Processing and Forming of Steel,MM,,,I - MJNV Prasad, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,6
+696,MM 638,Polymer Blends and Composites,MM,,,I - Arup R. Bhattacharyya, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+697,MM 650,Protective Coatings,MM,,,I - J Rangarajan, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,6
+698,MM 652,Advanced Ceramics,MM,,,A - Amartya Mukhopadhyay I - Avradeep Pal, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+699,MM 656,Simulation and Optimisation,MM,,,I - Sumit Saxena, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+700,MM 669,Mechanical Behavior of Thin Films,MM,,,A - Nagamani J. Balila I - Prita Pant, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,6
+701,MM 674,Materials & Processes for Semiconductor Devices,MM,,,I - Dusane Rajiv O., 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+702,MM 677,Diffusion and Kinetics,MM,,,I - M.P. Gururajan, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+703,MM 684,X-Ray Diffraction and Electron Microscopy,MM,,,A - Samajdar I. I - Prasanna T.R.S., 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,6
+704,MM 688,Non-Crystalline Materials,MM,,,I - Kulkarni Ajit R., 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,6
+705,MM 691,Topics in Phase Transformations,MM,,,I - Prabhu N., 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+706,MM 700,Electrochemical and Materials Perspective in Energy Storage,MM,,,I - Amartya Mukhopadhyay, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,7
+707,MM 712,Advances in Design and Control of Corrosion,MM,,,I - Raja V. S., 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,7
+708,MM 718,Laser Processing and Nanostructures,MM,,,I - Shobha Shukla, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,7
+709,MM 722,Molecular Simulations for Mateirals Engineering,MM,,,I - Ajay Singh Panwar, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,7
+710,MM 739,Semiconductor Photoelectrochemistry and Photocatalysis,MM,,,I - Aswani Yella, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,7
+711,MM 742,Science & Technology of Electric Furnace Steel Making,MM,,,I - Rajiv Asthana, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,7
+712,MM 746,Concepts of Advanced Polymer Science & Engineering,MM,,,I - Mithun Chowdhury, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,7
+713,MM 749,Statistics and Probability for Materials Engineers,MM,,,I - Hina Amol Gokhale, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,7
+714,MM 792,Communication Skills -II,MM,,,A - Sudhanshu Mallick I - Dusane Rajiv O., 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,7
+715,PH 108,Basics of Electricity & Magnetism,PH,,,A - Amitabha Nandi A - Raghunath Chelakkot A - Varma Raghava I - Mithun K. Mitra, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,1
+716,PH 202,Waves & Oscillations & Optics,PH,,,I - Anshuman Kumar, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,2
+717,PH 204,Quantum Mechanics I,PH,,,I - P. Ramadevi, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,2
+718,PH 230,Electronics Lab III (Digital Electronics),PH,,,I - Pradeep Sarin, 0,,,0,,timetable,  ,2
+719,PH 232,Physics Laboratory I (General Physics Lab),PH,,,I - S. Dhar, 0,,L3 Thu-L3-14:00:00-16:55:00,L3, Thu-L3-14:00:00-16:55:00,timetable,  ,2
+720,PH 233,Electronics Lab II (Op amp circuits),PH,,,I - Pradeep Sarin, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,2
+721,PH 252,Introduction to Quantum Mechanics,PH, M,,I - Sadhana Dash, 40,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,2
+722,PH 352,Introduction to Condensed Matter Physics,PH, M,,I - Mahajan Avinash V., 40,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,3
+723,PH 353,Light Matter Interactions,PH, M,,I - Gopal Dixit, 40,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,3
+724,PH 408,Mathematical Physics II,PH,,,I - Dibyendu Das, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,4
+725,PH 410,Statistical Physics,PH,,,I - Sumiran Pujari, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,4
+726,PH 418,Introduction to Condensed Matter Physics,PH,,,I - Singh P.P., 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,4
+727,PH 422,Quantum Mechanics II,PH,,,I - Alok Shukla, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,4
+728,PH 424,Electromagnetic Theory I,PH,,,I - Archana Pai, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,4
+729,PH 435,Electronics Lab IV (Microprocessors),PH,,,I - Pradeep Sarin, 0,,L3 Thu-L3-14:00:00-16:55:00,L3, Thu-L3-14:00:00-16:55:00,timetable,  ,4
+730,PH 436,Introduction to Condensed Matter Physics,PH,,,I - Soumya Bera, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,4
+731,PH 438,Statistical Physics,PH,,,I - Hridis Kumar Pal, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,4
+732,PH 441,Physics Lab (General Physics),PH,,,I - S. Dhar, 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,4
+733,PH 444,Electromagnetic Theory,PH,,,I - Kantimay Das Gupta, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,4
+734,PH 446,Physics Laboratory (Solid state and Nuclear Physics),PH,,,A - Nitin Kumar I - Major S.S., 0,,L4 Fri-L4-14:00:00-16:55:00,L4, Fri-L4-14:00:00-16:55:00,timetable,  ,4
+735,PH 447,Physics Lab (Optics and Spectroscopy),PH,,,A - Kundu Tapanendu I - Singh B.P., 0,,L3 Thu-L3-14:00:00-16:55:00,L3, Thu-L3-14:00:00-16:55:00,timetable,  ,4
+736,PH 500,Thin Film Physics & Technology,PH,,,I - Senthilkumar M., 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,5
+737,PH 510,Electromagnetic Theory II,PH,,,I - Sankar S.Uma, 0,,3 Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,3,Mon-3A-10:35:00-11:30:00 Thu-3C-08:30:00-09:25:00 Tue-3B-11:35:00-12:30:00,timetable,  ,5
+738,PH 512,Physics Lab (Optics and Spectroscopy),PH,,,A - Kundu Tapanendu I - Singh B.P., 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,5
+739,PH 527,Physics Lab (Solid State and Nuclear Physics),PH,,,A - Nitin Kumar I - Major S.S., 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,5
+740,PH 530,Light Matter Interaction,PH,,,I - P Vasa, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,5
+741,PH 534,Quantum Information and Computing,PH,,,I - Sai Vinjanampathy, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,5
+742,PH 536,Physics of Quantum Devices,PH,,,I - Suddhasatta Mahapatra, 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,5
+743,PH 540,Elementary Particle Physics,PH,,,I - Kumar Rao, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,5
+744,PH 544,General Theory of Relativity,PH,,,I - Yajnik Urjit, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,5
+745,PH 546,Quantum Optics,PH,,,I - B.N.Jagtap, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,5
+746,PH 550,Soft Matter Physics,PH,,,I - Nitin Kumar, 0,,15 Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,15, Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,timetable,  ,5
+747,PH 556,Astrophysics,PH,,,I - Varun Bhalerao, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,5
+748,PH 558,Nanomaterials Nanostructures & Nanofabrication,PH,,,I - Pramod Kumar, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,5
+749,PH 562,Continuum Mechanics,PH,,,I - Anirban Sain, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,5
+750,PH 566,Advanced Simulation Techniques in Physics,PH,,,I - Aftab Alam, 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,5
+751,PH 568,Physics of Nanostructures and oscale Devices,PH,,,I - Dinesh Kabra, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,5
+752,PH 570,Advanced Laboratory Techniques in Nanosience,PH,,,I - Mohamad Aslam, 0,,L1 Mon-L1-14:00:00-16:55:00,L1, Mon-L1-14:00:00-16:55:00,timetable,  ,5
+753,PH 572,Special Topics in Elementary Particle Physics,PH,,,I - Vikram Rentala, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,5
+754,PH 580,Magnetism and Superconductivity,PH,,,I - Suresh K.G., 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,5
+755,PS 602,Public Policy in Practice,PS,,,I - Prabhir Vishnu Poruthiyil, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+756,PS 604,Technology Culture and Policy,PS,,,I - Mehra A., 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,6
+757,PS 606,Public Policy in India: History Institutions and Practice,PS,,,I - Jha Shishir Kumar, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+758,PS 607,Public Policy Theory II,PS,,,I - Prabhir Vishnu Poruthiyil, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+759,PS 610,Quantitative and Qualitative Research Methods,PS,,,A - Sarthak Gaurav I - Prabhir Vishnu Poruthiyil, 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,6
+760,PS 611,Energy Policy Analysis,PS,,,I - Banerjee Rangan, 0,,1 Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,1,Mon-1A-08:30:00-09:25:00 Thu-1C-10:35:00-11:30:00 Tue-1B-09:30:00-10:25:00,timetable,  ,6
+761,PS 614,Water Policy II - Advanced Themes in Water Policy,PS,,,I - N.C.Naraya, 0,,15 Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,15, Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,timetable,  ,6
+762,PS 617,Information Economy Data and Goverce III,PS,,,I - Jha Shishir Kumar, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+763,PS 625,Environmental Goverce and Development,PS,,,A - Bakul Rao A - Virendra Sethi I - Ajay A Deshpande, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+764,PS 626,AI Data and Policy,PS,,,I - Anupam Guha, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,6
+765,PS 630,Technology and the Future of Workers,PS,,,I - Anupam Guha, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+766,PS 631,Telecommunication Policy,PS,,,I - Manjunath D., 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,6
+767,PS 792,Communication Skill -II,PS,,,I - Parthasarathy D., 0,,4 Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,4,Mon-4A-11:35:00-12:30:00 Thu-4C-09:30:00-10:25:00 Tue-4B-08:30:00-09:25:00,timetable,  ,7
+768,SC 202,Signals and Feedback Systems,SC, M,,A - Nataraj P.S.V. I - Bandyopadhyay B., 25,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,2
+769,SC 602,Control of Nonlinear Dynamical Systems,SC,,,I - Sukumar Srikant, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+770,SC 602,Control of Nonlinear Dynamical Systems,SC, M,,I - Sukumar Srikant, 0,,14 Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,timetable,  ,6
+771,SC 607,Optimization,SC,,,I - Ankur Kulkarni, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,6
+772,SC 607,Optimization,SC, M,,I - Ankur Kulkarni, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,6
+773,SC 626,Systems and Control Engineering Laboratory,SC,,,A - Leena Vachhani I - Arpita Sinha, 0,,LX Wed-LX-14:00:00-16:55:00,LX, Wed-LX-14:00:00-16:55:00,timetable,  ,6
+774,SC 630,Variable Structure and Sliding Mode Control,SC,,,I - Bandyopadhyay B., 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,6
+775,SC 630,Variable Structure and Sliding Mode Control,SC, M,,I - Bandyopadhyay B., 0,,13 Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,timetable,  ,6
+776,SC 635,Advanced Topics in Mobile Robotics,SC,,,A - Leena Vachhani I - Arpita Sinha, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+777,SC 635,Advanced Topics in Mobile Robotics,SC, M,,A - Leena Vachhani I - Arpita Sinha, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+778,SC 638,Quantum Control,SC,,,I - Navin Khaneja, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+779,SC 638,Quantum Control,SC, M,,I - Navin Khaneja, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+780,SC 640,Applied Predictive Analytics,SC,,,I - Nataraj P.S.V., 20,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+781,SC 647,Topological Methods in Control and Data Science,SC,,,I - Debasish Chatterjee, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+782,SC 647,Topological Methods in Control and Data Science,SC, M,,I - Debasish Chatterjee, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,6
+783,SC 702,Linear Systems Theory for PDEs,SC,,,I - Vivek Natarajan, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,7
+784,SC 702,Linear Systems Theory for PDEs,SC, M,,I - Vivek Natarajan, 0,,6 Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,timetable,  ,7
+785,SC 792,Communication Skills -II,SC,,,I - Vivek Natarajan, 0,,X Wed-XC-17:30:00-18:55:00 Wed-XD-19:00:00-20:25:00,0,Wed-XC-17:30:00-18:55:00 Wed-XD-19:00:00-20:25:00,timetable,  ,7
+786,TD 604,Social Science Research Methods and Systems Dynamics,TD,,,A - Amit Y. Arora I - Subodh M. Wagle, 0,,9 Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,9,Mon-9A-15:30:00-16:55:00 Thu-9B-15:30:00-16:55:00,timetable,  ,6
+787,TD 610,Contemporary Critical Issues in Technology and Development,TD,,,I - N.C.Naraya, 0,,15 Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,15, Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,timetable,  ,6
+788,TD 611,Agro-based Industries: Design and Case Studies,TD,,,I - N. Shah, 0,,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,6
+789,TD 620,Micro Small and Medium Enterprises in Rural Areas,TD,,,A - Vishal R. Sardeshpande I - Ad B. Rao, 0,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+790,TD 623,Rural Electrification and Development in India,TD,,,I - Priyadarshani Jadhav, 0,,8 Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,8,Mon-8A-14:00:00-15:25:00 Thu-8B-14:00:00-15:25:00,timetable,  ,6
+791,TD 630,Public Policy: Theory and Practice,TD,,,A - Satish B. Agnihotri I - Subodh M. Wagle, 0,,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+792,TD 632,Sustainable Development Goals and Corporate Social Responsibility,TD,,,A - Ad B. Rao A - Bakul Rao A - Satish B. Agnihotri I - Rupal M Dalal, 0,,11 Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,11, Fri-11B-15:30:00-16:55:00 Tue-11A-15:30:00-16:55:00,timetable,  ,6
+793,TD 653,Biofuels: Technology and Policy Perspective,TD,,,I - Amit Y. Arora, 0,,10 Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,10, Fri-10B-14:00:00-15:25:00 Tue-10A-14:00:00-15:25:00,timetable,  ,6
+794,US 603,Research Methods in Urban Science,US,,,I - Arnab Jana, 30,,12 Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,timetable,  ,6
+795,US 606,Urban Environmental Infrastructure,US,,,I - Pradip P. Kalbar, 40, View,5 Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,5,Fri-5B-09:30:00-10:55:00 Wed-5A-09:30:00-10:55:00,timetable,  ,6
+796,US 611,Urban Design and Engineering Laboratory,US,,,A - Arnab Jana A - Malini Krishkutty A - Pradip P. Kalbar I - Himanshu Burte, 0,,,0,,timetable,  ,6
+797,US 614,Urban Space: Theories and Critical Perspectives,US,,,I - Himanshu Burte, 25, View,2 Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,2,Mon-2A-09:30:00-10:25:00 Thu-2C-11:35:00-12:30:00 Tue-2B-10:35:00-11:30:00,timetable,  ,6

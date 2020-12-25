@@ -1,0 +1,81 @@
+,Course Code,Course Name,Dept,Division,Instructor(s),Slot_code,Time,Yxx ka Y
+0,CS 620,New Trend in Information Technology,CS,,I - Supratik Chakraborty,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,6
+1,CS 748,Advances in Intelligent and Learning Agents,CS,,I - Shivaram Kalyanakrish,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,7
+2,CS 754,Advanced Image Processing,CS,,I - Ajit V. Rajwade,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,7
+3,CS 736,Medical Image Computing,CS,,I - Suyash P. Awate,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,7
+4,CS 741,Advanced Network Security and Cryptography,CS,,I - B. L. Menezes,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,7
+5,CS 753,Automatic Speech Recognition,CS,,I - Preethi Jyothi,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,7
+6,CS 760,Topics in Computational Complexity,CS,,I - Mrinal Kumar,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,7
+7,CS 766,Analysis of Concurrent Programs?,CS,,A - Krishna Shankara Naraya I - Ashutosh Kumar Gupta,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,7
+8,EE 620,Physics of Transistors,EE,,I - Souvik Mahapatra,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+9,EE 656,Electrical Machine Analysis and Control,EE,,I - Ferdes B.G.,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+10,EE 678,Wavelets,EE,,I - Gadre V.M.,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+11,EE 799,Advanced Antennas,EE,,I - J.Mukherjee,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,7
+12,EE 614,Solid State Microwave Devices and their Applications,EE,,I - Kumar Girish,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,6
+13,EE 616,Electronic Systems Design,EE,,I - Pandey P.C.,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,6
+14,EE 621,Markov Chains and Queuing Systems,EE,,I - Jayakrish Nair,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,6
+15,EE 651,Digital Protection of Power Systems,EE,,I - Prashant Navalkar,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,6
+16,EE 724,Nanoelectronics,EE,,I - Bhaskaran Muralidharan,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,7
+17,EE 786,Developments Trends and Economic Frontiers in EE,EE,,I - Animesh Kumar,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,7
+18,EE 727,Physics of Nanoscale Devices - II,EE,,I - Ashwin Tulapurkar,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,7
+19,EE 605,Error Correcting Codes,EE,,I - Sibi Raj B. Pillai,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,6
+20,EE 699,Delta Sigma Data Converters and their Applications,EE,,I - Pramod Murali,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,6
+21,EE 769,Introduction to Machine Learning,EE,,I - Amit Sethi,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,7
+22,EE 791,Power Electronic Converters for Renewable Energy,EE,,I - Sandeep Ad,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,7
+23,EE 780,Terahertz : Technology & Applications,EE,,I - Kushal R. Tuckley,15, Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,7
+24,ENT601,Intellectual Property for Entrepreneurs,ENT,,A - Rajkumar R. Hirwani I - M.D.Atrey,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,6
+25,ENT604,Marketing for Entrepreneurs,ENT,,A - Devdip Purkayastha A - P Kumaresan I - A. T. Kusre,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,6
+26,ENT602,Technology Venture Creation,ENT,,A - A. T. Kusre A - Rajen Jaswa I - Rohan Chinchwadkar,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,6
+27,ET 611,Learning Sciences,ET, M,I - Chandan Dasgupta,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+28,GNR629,Advances in Geospatial Standards Interoperability and Knowledge Discovery,GNR,,I - Surya Durbha,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+29,GNR630,Introduction to Geospatial Technologies,GNR,,A - Gedam S.S. I - Mohan B.Krishna,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+30,GNR639,Natural Disaster Assessment and Management,GNR,,I - Gulab Singh,7,Fri-7B-08:30:00-09:25:00 Wed-7A-08:30:00-09:25:00,6
+31,GNR618,Remote Sensing and GIS Applications to Cryosphere,GNR,,I - Gulab Singh,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,6
+32,GNR602,Advanced Methods in Satellite Image Processing,GNR,,I - Mohan B.Krishna,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,6
+33,GNR642,Scattering Models in Microwave Remote Sensing,GNR,,I - Gulab Singh,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,6
+34,GNR644,Remote Sensing of Surface Water Resources,GNR,,I - Karthikeyan Lanka,15, Fri-15B-19:00:00-20:25:00 Tue-15A-19:00:00-20:25:00,6
+35,HS 618,Introduction to Indian Astronomy,HS,,I - K. Ramasubramanian,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+36,HS 621,Contemporary Indian Philosophy,HS,,I - Ratikanta Panda,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+37,HS 624,Contemporary Issues in Philosophy of Mind,HS,,I - Rajkishore Nath,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+38,HS 625,Philosophy of Education,HS,,I - R.K. Panda,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+39,HS 629,Ecology and Society,HS,,I - Sarmistha Pattanaik,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+40,HS 710,Consumer Psychology,HS,,I - A. Khan,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,7
+41,HS 634,Theories of Verbal Congnition (Shaabdabodha),HS,,I - Kulkarni A Malhar,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,6
+42,IE 683,Topics in Learning Algorithms,IE,,I - N. Hemachandra,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+43,IE 683,Topics in Learning Algorithms,IE, M,I - N. Hemachandra,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+44,IE 714,Quantitative Models for Supply Chain Management,IE,,I - Rangaraj Narayan,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,7
+45,IE 613,Online Learning,IE,,I - Manjesh K. Hanawal,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,6
+46,IE 613,Online Learning,IE, M,I - Manjesh K. Hanawal,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,6
+47,IE 663,Advanced Topics in Deep Learning,IE,,I - P. Balamurugan,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,6
+48,SOM620,Business and Sustainable Development,SOM,,I - Trupti Mishra,6,0,6
+49,SOM652,Indian Ficial and Business Model,SOM,,I - Varadraj B. Bapat,6,0,6
+50,SOM664,Business to Business Marketing,SOM,,I - Dinesh Sharma,6,0,6
+51,SOM665,Consumer Behaviour,SOM,,I - Dinesh Sharma,6,0,6
+52,SOM673,Managerial Effectiveness Skills,SOM,,I - Bhargava S,6,0,6
+53,SOM680,Managing Intellectual Property,SOM,,I - Karuna Jain,6,0,6
+54,SOM681,Historical and Contemporary Perspectives in International Business,SOM,,I - S.N.Rao,6,0,6
+55,SOM691,Intelligent Systems,SOM,,I - Sonar M Rajendra,6,0,6
+56,SOM693,Information Technology Infrastructure Management,SOM,,I - Sonar M Rajendra,6,0,6
+57,SOM698,Management of Banking and Ficial Services,SOM,,I - Piyush Pandey,6,0,6
+58,SOM700,Managing Digital Products,SOM,,I - Sonar M Rajendra,6,0,7
+59,SOM707,Behavioral Fice,SOM,,I - S.N.Rao,6,0,7
+60,SOM711,Behavioural Economics,SOM,,I - Sarthak Gaurav,6,0,7
+61,SOM712,Management of Digital Transformation in Enterprise,SOM,,I - Sonar M Rajendra,6,0,7
+62,SOM716,Economics of Firm Strategy,SOM,,I - Vinish Kathuria,6,0,7
+63,MM 652,Advanced Ceramics,MM,,A - Amartya Mukhopadhyay I - Avradeep Pal,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+64,MM 718,Laser Processing and Nanostructures,MM,,I - Shobha Shukla,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,7
+65,MM 638,Polymer Blends and Composites,MM,,I - Arup R. Bhattacharyya,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,6
+66,MM 674,Materials & Processes for Semiconductor Devices,MM,,I - Dusane Rajiv O.,12, Mon-12A-17:30:00-18:55:00 Thu-12B-17:30:00-18:55:00,6
+67,MM 656,Simulation and Optimisation,MM,,I - Sumit Saxena,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,6
+68,MM 691,Topics in Phase Transformations,MM,,I - Prabhu N.,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,6
+69,SC 635,Advanced Topics in Mobile Robotics,SC,,A - Leena Vachhani I - Arpita Sinha,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+70,SC 635,Advanced Topics in Mobile Robotics,SC, M,A - Leena Vachhani I - Arpita Sinha,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+71,SC 640,Applied Predictive Analytics,SC,,I - Nataraj P.S.V.,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+72,SC 647,Topological Methods in Control and Data Science,SC,,I - Debasish Chatterjee,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+73,SC 647,Topological Methods in Control and Data Science,SC, M,I - Debasish Chatterjee,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,6
+74,SC 702,Linear Systems Theory for PDEs,SC,,I - Vivek Natarajan,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,7
+75,SC 702,Linear Systems Theory for PDEs,SC, M,I - Vivek Natarajan,6,Fri-6B-11:05:00-12:30:00 Wed-6A-11:05:00-12:30:00,7
+76,SC 630,Variable Structure and Sliding Mode Control,SC,,I - Bandyopadhyay B.,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,6
+77,SC 630,Variable Structure and Sliding Mode Control,SC, M,I - Bandyopadhyay B.,13, Mon-13A-19:00:00-20:25:00 Thu-13B-19:00:00-20:25:00,6
+78,SC 602,Control of Nonlinear Dynamical Systems,SC,,I - Sukumar Srikant,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,6
+79,SC 602,Control of Nonlinear Dynamical Systems,SC, M,I - Sukumar Srikant,14, Fri-14B-17:30:00-18:55:00 Tue-14A-17:30:00-18:55:00,6
